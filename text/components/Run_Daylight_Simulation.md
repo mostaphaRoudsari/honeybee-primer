@@ -2,7 +2,9 @@
 
 ![](../../images/components/Run_Daylight_Simulation.png)
 
-export geometries to rad file, and run daylighting/energy simulation - 
+export geometries to rad file, and run daylighting/energy simulation
+ -
+ 
 
 #### Inputs
 * ##### HBObjects [Required]
