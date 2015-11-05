@@ -21,6 +21,8 @@ a required field to uniquely name the economizer
 ... This is a schedule with values between 0 and 1, and it is multiplied by the minimumAirFlowRate.  It is usually left blank, but can be used to fine tune the economizer during warm-up time or after hours.
 * ##### minimumOutdoorAirFracSchedule [Default]
 ... this overrides minOutdoorAirSchedule and minAirflowRate.  It is a schedule between 0 and 1.  It is often used to create a 100% outside air system.
+* ##### maximumOutdoorAirFracSchedule [Default]
+... this is a schedule between 0 and 1.  It is often used to create a recirculating outside air system such as that in patient rooms.
 * ##### maximumLimitDewpoint [Default]
 ... needed for when the ControlType is Fixed Dewpoint and Dry Bulb.  Otherwise leave blank
 * ##### sensedMinimum [Default]
@@ -37,10 +39,10 @@ an optional field, though highly recommended.  Open Studio provides default beha
 allows you to toggle between different AvailabilityManagers.  Right now, we simply allow you to create a list that has only one AvailabilityManager, and the type of manager can be ScheduledOrNightCycle
 
 #### Outputs
-* ##### readMe
+* ##### readMe!
 The execution information, as output and error streams
-* ##### airsideEconomizerParameters
-...
+* ##### airsideEconomizer
+An airside economizer detail that can be plugged into the "Honeybee_Air Handling Unit Detail" component.
 
 
 [Check Hydra Example Files for OpenStudio Airside Economizer Detail](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_OpenStudio Airside Economizer Detail)

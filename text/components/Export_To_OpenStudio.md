@@ -8,7 +8,7 @@ Use this component to export HBZones into an OpenStudio file, and run them throu
 * ##### north [Optional]
 Input a vector to be used as a true North direction for the energy simulation or a number between 0 and 360 that represents the degrees off from the y-axis to make North.  The default North direction is set to the Y-axis (0 degrees).
 * ##### epwWeatherFile [Required]
-Script variable exportToOpenStudio
+An .epw file path on your system as a text string.
 * ##### analysisPeriod [Default]
 An optional analysis period from the Ladybug_Analysis Period component.  If no Analysis period is given, the energy simulation will be run for the enitre year.
 * ##### energySimPar [Default]

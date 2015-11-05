@@ -24,7 +24,9 @@ The electric lighting energy needed for each zone in kWh.
 * ##### electricEquip
 The electric equipment energy needed for each zone in kWh.
 * ##### fanElectric
-The fan electric energy for a central heating or cooling system in kWh.  This ouput will not appear when there is no central system assigned in OpenStudio.
+The fan electric energy in kWh for either a natural ventilation fan or a heating or cooling system fan.  This ouput will not appear when there is no fan in the model.
+* ##### pumpElectric
+The water pump electric energy in kWh for a heating or cooling system.  This ouput will not appear when there is no water pump in the model.
 * ##### peopleGains
 The internal heat gains in each zone resulting from people (kWh).
 * ##### totalSolarGain
@@ -43,6 +45,10 @@ The mean air temperature of each zone (degrees Celcius).
 The mean radiant temperature of each zone (degrees Celcius).
 * ##### relativeHumidity
 The relative humidity of each zone (%).
+* ##### airFlowVolume
+The total volume of air flowing into the room through both the windows and infiltration (m3/s).  This is voulme of air is at standard density (20 C and adjusted for the elevation above sea level of the weather file).
+* ##### airHeatGainRate
+The total heat transfer rate to the air from lighting, equipment(appliances/pulg loads), people, the surfaces of the zone, and gains through the heating system.  This output is useful for the estimation of air stratification in the Comfort Analysis workflow.
 * ##### otherZoneData
 Other zone data that is in the result file (in no particular order). Note that this data cannot be normalized by floor area as the component does not know if it can be normalized.
 

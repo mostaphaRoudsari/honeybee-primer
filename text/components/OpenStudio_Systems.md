@@ -2,7 +2,7 @@
 
 ![](../../images/components/OpenStudio_Systems.png)
 
-OpenStudio Systems - 
+OpenStudio Systems, without the inputs in _airSideDetails_ and _plantDetails_ default Open Studio systems will be created. - 
 
 #### Inputs
 * ##### HBZones [Required]

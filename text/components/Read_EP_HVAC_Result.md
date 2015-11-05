@@ -19,7 +19,7 @@ The latent energy removed by the ideal air cooling load for each zone in kWh.
 The sensible energy added by the ideal air heating load for each zone in kWh.
 * ##### latentHeating
 The latent energy added by the ideal air heating load for each zone in kWh.
-* ##### supplyMassFlow
+* ##### supplyVolFlow
 The mass of supply air flowing into each zone in kg/s.
 * ##### supplyAirTemp
 The mean air temperature of the supply air for each zone (degrees Celcius).

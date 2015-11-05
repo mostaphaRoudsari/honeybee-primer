@@ -29,6 +29,8 @@ The total direct solar beam energy transmitted through each of the glazing surfa
 The total diffuse solar energy transmitted through each of the glazing surfaces to the zone (kWh).
 * ##### windowTransmissivity
 The hourly transmissivity of the exterior windows of the model.  This data is needed to align a comfort map with an energy model possessing shades.
+* ##### otherSurfaceData
+Other surface data that is in the result file (in no particular order).  Note that this data cannot be normalized by floor area as the component does not know if it can be normalized.
 
 
 [Check Hydra Example Files for Read EP Surface Result](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Read EP Surface Result)

@@ -5,28 +5,12 @@
 OpenStudio Systems - 
 
 #### Inputs
-* ##### jsonstream [Optional]
-... For future
-* ##### jsonfileloc [Optional]
-... For future
 * ##### HVACSystemID [Required]
 ... use of the integers representing a system, as found in openStudioHVACSystemsList
 * ##### availabilitySch [Default]
 ... a Honeybee or OpenStudio schedule reference.
 * ##### fanPlacement [Default]
-... BlowThrough or DrawThrough
-* ##### coolingAirflowRate [Default]
-You may enter a maximum airflow rate in cooling (m3/s).  Typically this is left blank, so EnergyPlus can autosize.
-* ##### coolingOAFlowRate [Default]
-...You may enter a maximum outdoor airflow rate in cooling (m3/s).  Typically this is left blank, so EnergyPlus can autosize.
-* ##### heatingAirflowRate [Default]
-...You may enter a maximum airflow rate in heating (m3/s).  Typically this is left blank, so EnergyPlus can autosize.
-* ##### heatingOAFlowRate [Default]
-... You may enter a maximum outdoor airflow rate in cooling (m3/s).  Typically this is left blank, so EnergyPlus can autosize.
-* ##### floatingAirflowRate [Default]
-...You may enter a maximum airflow rate when floating (m3/s).  Typically this is left blank, so EnergyPlus can autosize.
-* ##### floatingOAFlowRate [Default]
-...You may enter a maximum outdoor airflow rate in when floating (m3/s).  Typically this is left blank, so EnergyPlus can autosize.
+... BlowThrough or DrawThrough.
 * ##### coolingCoil [Default]
 ... Provide a definition fo a cooling coil (from the Honeybee component for cooling coils).  This component currently accepts one and two speed DX coil
 * ##### heatingCoil [Default]
@@ -39,7 +23,7 @@ You may enter a maximum airflow rate in cooling (m3/s).  Typically this is left 
 ...Provide the output of an availability manager list component to override OpenStudio default behavior.  Do nothing and the fan system never shuts off, which is not really desired behavior.
 
 #### Outputs
-* ##### out
+* ##### readMe!
 The execution information, as output and error streams
 * ##### airHandlerDetail
 Script variable Python

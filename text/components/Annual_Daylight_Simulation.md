@@ -5,6 +5,8 @@
 Analysis Recipe for Annual Daylighting Simulation - 
 
 #### Inputs
+* ##### north [Optional]
+Input a vector to be used as a true North direction for the sun path or a number between 0 and 360 that represents the degrees off from the y-axis to make North.  The default North direction is set to the Y-axis (0 degrees).
 * ##### epwWeatherFile [Required]
 epw weather file address on your system
 * ##### testPoints [Required]
