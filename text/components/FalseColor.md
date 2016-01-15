@@ -21,6 +21,8 @@ Script variable FalseColor
 An interger representing the number of steps between the high and low boundary of the legend. Default value is set to 10.
 * ##### legendPosition [Optional]
 A number between 0 to 11 to set legend position to the given direction WS|W|WN|NW|N|NE|EN|E|ES|SE|S|SW
+* ##### printExtrema [Optional]
+Set to True to cause extrema points to be printed on the brightest and darkest pixels of the input picture.
 * ##### maskThreshold [Optional]
 Optional number for masking threshold. Pixels with values less than this number will be rendered in black.
 * ##### useAlterColors [Optional]

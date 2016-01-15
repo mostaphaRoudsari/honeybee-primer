@@ -9,8 +9,6 @@ Use this component to color zone surfaces based on EnergyPlus data out of the "H
 A list surface data out of the 'Honeybee_Read EP Surface Result' component.
 * ##### HBZones [Required]
 The HBZones out of any of the HB components that generate or alter zones.  Note that these should ideally be the zones that are fed into the Run Energy Simulation component as surfaces may not align otherwise.  Zones read back into Grasshopper from the Import idf component will not align correctly with the EP Result data.
-* ##### normalizeBySrfArea [Optional]
-Set boolean to 'True' in order to normalize results by the area of the surface and set to 'False' to color zones based on total values for each surface.  The default is set to 'True' such that colored surface communicate energy intensity rather than total energy.  Note that this input will be ignored if connected data is Temperature or values that are already normalized.
 * ##### analysisPeriod [Optional]
 Optional analysisPeriod_ to take a slice out of an annual data stream.  Note that this will only work if the connected data is for a full year and the data is hourly.  Otherwise, this input will be ignored. Also note that connecting a value to 'stepOfSimulation_' will override this input.
 * ##### stepOfSimulation [Optional]
@@ -41,8 +39,6 @@ A list of breps for each zone surface. Connecting this output and the following 
 A list of colors that correspond to the colors of each zone surface.  These colors include alpha values to make them slightly transparent.  Connecting the previous output and this output to a Grasshopper 'Preview' component will thus allow you to see the surfaces colored transparently.
 * ##### srfValues
 The values of the input data that are being used to color the surfaces.
-* ##### normalizedSrfData
-The input data normalized by the areas of each surface.
 
 
 [Check Hydra Example Files for Color Surfaces by EP Result](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Color Surfaces by EP Result)

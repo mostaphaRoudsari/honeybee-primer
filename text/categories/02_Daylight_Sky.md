@@ -5,4 +5,5 @@
 * ![IMAGE](../../images/icons/Watch_The_Sky.png) [Watch_The_Sky](../components/Watch_The_Sky.md)
 * ![IMAGE](../../images/icons/Generate_Average_Sky.png) [Generate_Average_Sky](../components/Generate_Average_Sky.md)
 * ![IMAGE](../../images/icons/Generate_Custom_Sky.png) [Generate_Custom_Sky](../components/Generate_Custom_Sky.md)
+* ![IMAGE](../../images/icons/Generate_Dark_Sky.png) [Generate_Dark_Sky](../components/Generate_Dark_Sky.md)
 * ![IMAGE](../../images/icons/Generate_Sky_With_Certain_Illuminance_level.png) [Generate_Sky_With_Certain_Illuminance_level](../components/Generate_Sky_With_Certain_Illuminance_level.md)

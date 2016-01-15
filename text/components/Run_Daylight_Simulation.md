@@ -2,9 +2,7 @@
 
 ![](../../images/components/Run_Daylight_Simulation.png)
 
-export geometries to rad file, and run daylighting/energy simulation
- -
- 
+export geometries to rad file, and run daylighting/energy simulation - 
 
 #### Inputs
 * ##### HBObjects [Required]
@@ -41,7 +39,7 @@ Unit of the results (e.g. lux, candela, wh/m2)
 Path to the results of grid based analysis (includes all the recipes except image-based and annual)
 * ##### testPts
 Test points
-* ##### resultFiles
+* ##### annual_analysis_files
 Script variable runDaylightAnalysis
 * ##### radGeoFile
 Script variable runDaylightAnalysis

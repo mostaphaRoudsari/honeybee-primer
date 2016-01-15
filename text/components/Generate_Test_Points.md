@@ -5,7 +5,7 @@
 Genrate Test Points - 
 
 #### Inputs
-* ##### testSurface [Required]
+* ##### testGeometry [Required]
 Test surface as a Brep.
 * ##### gridSize [Required]
 Size of the test grid.

@@ -2,7 +2,7 @@
 
 ![](../../images/components/Mirror_Honeybee.png)
 
-Move Honeybee Objects - 
+Mirror Honeybee Objects - 
 
 #### Inputs
 * ##### HBObj [Required]

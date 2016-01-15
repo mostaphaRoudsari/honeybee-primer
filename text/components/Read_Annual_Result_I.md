@@ -12,11 +12,11 @@ List of 3d Points
 * ##### ptsVectors [Optional]
 Script variable readDSResults
 * ##### occupancyFiles [Optional]
-Address to a Daysim occupancy file. You can find some example in \Daysim\occ. Use Honeybee Occupancy Generator to generate a custom occupancy file.
+Address to a Daysim occupancy file. You can find some example in \Daysim\occ. Use Honeybee Occupancy Generator to generate a custom occupancy file. You can also use EnergyPlus Schedules directly. If the schedule is using continuous values any value larger than .2 will be considered as occupied.
 * ##### DLAIllumThresholds [Default]
 Illuminance threshold for Daylight Autonomy calculation in lux. Default is set to 300 lux.
 * ##### lightingControlGroups [Optional]
-Daysim lighting control groups. Daysim can model up to 10 lighting control groups together. Default is > cntrlType = 3, lightingPower = 250, lightingSetpoint = 300, ballastLossFactor = 20, standbyPower = 3, delayTime = 5
+Daysim lighting control groups. Daysim can model up to 10 lighting control groups together. Default is > cntrlType = 4, lightingPower = 250, lightingSetpoint = 300, ballastLossFactor = 20, standbyPower = 3, delayTime = 5
 * ##### SHDGroupI_Sensors [Optional]
 Senors for dhading group I. Use shadingGroupSensors component to prepare the inputs
 * ##### SHDGroupII_Sensors [Optional]

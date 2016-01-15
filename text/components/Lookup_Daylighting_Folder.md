@@ -17,7 +17,7 @@ Refresh
 Type of the analysis (e.g. illuminance, luminance,...)
 * ##### resultsUnit
 Unit of the results (e.g. lux, candela, wh/m2)
-* ##### resultFiles
+* ##### illFiles
 List of ill files from annual analysis
 * ##### ptsFiles
 List of point files
@@ -25,6 +25,8 @@ List of point files
 List of hdr files
 * ##### imageFiles
 List of gif files
+* ##### iesFiles
+Script variable LookupFolder_Daylighting
 * ##### epwFile
 Script variable searchAnnualSimulationFolder
 * ##### radianceFiles

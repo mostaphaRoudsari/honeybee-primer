@@ -8,7 +8,7 @@ Use this component to make certain surface types of a zone adiabatic. -
 * ##### HBZones [Required]
 HBZones for which some surface types will be turned to adiabatic.
 * ##### walls [Optional]
-Set to 'True' to have this surface type turned adiabatic.
+Set to 'True' to have this surface type turned adiabatic. This input can also accept lists of boolean values and will assign different adiabatic values based on cardinal direction, starting with north and moving counter-clockwise.
 * ##### interiorWalls [Optional]
 Set to 'True' to have this surface type turned adiabatic.
 * ##### airWalls [Optional]
