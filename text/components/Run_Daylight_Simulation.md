@@ -39,7 +39,7 @@ Unit of the results (e.g. lux, candela, wh/m2)
 Path to the results of grid based analysis (includes all the recipes except image-based and annual)
 * ##### testPts
 Test points
-* ##### annual_analysis_files
+* ##### resultFiles
 Script variable runDaylightAnalysis
 * ##### radGeoFile
 Script variable runDaylightAnalysis

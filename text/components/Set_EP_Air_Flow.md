@@ -23,10 +23,10 @@ A number or list of numbers between -100 and 100 that represents the minimum out
 A number or list of numbers between -100 and 100 that represents the minimum outdoor temperature at which to naturally ventilate.  Use this to design night flushed buildings where windows are closed for daytime temperatures and opened at night or a mixed-mode buildings where you would like occupants to shut the windows and turn on a cooling system if it gets too hot outside. This can be either a single number to be applied to all connected zones or a list of numbers for each different zone.
 * ##### openingAreaFractionalSched [Optional]
 An optional schedule to set the fraction of the window that is open at each hour.
-* ##### operableEffectiveArea [Required]
-A number representing the effective area of operable ventilation in square meters.  Note that effective area references both inlet and outlet area through the following formula: EffectiveArea = 1 / sqrt( (1/InletArea^2) + 1/OutletArea^2) ). This value will be decreased if there is further friction introduced by objects in between the inlet and outlet.
-* ##### inletOutletHeight [Required]
-A number representing the height between the inlet and outlet of the custom ventilation object in meters.  This is needed for the bouyancy calculation.  Note that this heght should be from the midpoint of the height of the inlet to the midpoint of the height of the outlet.
+* ##### fractionOfGlzAreaOperable [Optional]
+A number or list of numbers between 0.0 and 1.0 that represents the fraction of the window area that is operable.  By default, it will be assumed that this is 0.5 assuming sliding windows that slide horizontally.
+* ##### fractionOfGlzHeightOperable [Optional]
+A number or list of numbers between 0.0 and 1.0 that represents the fraction of the distance from the bottom of the zones windows to the top that are operable.  By default, it will be assumed that this is 1.0 assuming sliding windows that slide horizontally.
 * ##### windDischargeCoeff [Optional]
 A number between 0.0 and 1.0 that will be multipled by the area of the window to account for the angle at which the wind hits the window.  This is the 'Cw' variable in the equation given in this component's description.  If no value is input here, it is autocalculated based on the angle of the cardinal direction from North and the hourly wind direction.  More often than not, you want to use this autocalculate feature.  Set to 0 to completely discount wind from the natural ventilation calculation.
 * ##### stackDischargeCoeff [Optional]

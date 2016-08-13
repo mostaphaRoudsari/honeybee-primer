@@ -15,13 +15,15 @@ The heating load from the "Honeybee_Read EP Result" component.
 The electric lighting load from the "Honeybee_Read EP Result" component.
 * ##### electricEquip [Optional]
 The electric equipment load from the "Honeybee_Read EP Result" component.
+* ##### fanElectric [Optional]
+The electric fan load from the "Honeybee_Read EP Result" component.
 * ##### peopleGains [Optional]
 The people gains from the "Honeybee_Read EP Result" component.
 * ##### totalSolarGain [Optional]
 The total solar gain from the "Honeybee_Read EP Result" component.
 * ##### infiltrationEnergy [Optional]
 The infiltration heat loss (negative) or heat gain (positive) from the "Honeybee_Read EP Result" component.
-* ##### outdoorAirEnergy [Optional]
+* ##### mechVentilationEnergy [Optional]
 The outdoor air heat loss (negative) or heat gain (positive) from the "Honeybee_Read EP Result" component.
 * ##### natVentEnergy [Optional]
 The natural ventilation heat loss (negative) or heat gain (positive) from the "Honeybee_Read EP Result" component.

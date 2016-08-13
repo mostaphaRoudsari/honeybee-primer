@@ -8,15 +8,15 @@
 * ##### ptsList [Required]
 List of points/3d coordinates where the luminaires are to be located.
 * ##### spin [Default]
-Luminaire spin angle. 
+A number represeting the luminaire spin angle in degrees.  This can also be a list of spin angles that match the _ptsList.
 * ##### tilt [Default]
-Luminaire tilt angle.
+A number represeting the luminaire tilt angle in degrees.  This can also be a list of tilt angles that match the _ptsList.
 * ##### orientation [Default]
-Luminaire rotation angle.
+A number represeting the luminaire rotation angle in degrees.  This can also be a list of orientation angles that match the _ptsList.
 * ##### aimingPoint [Optional]
-Location at which the photometric axis of each luminaire should be aimed.
+A point represeting the location at which the photometric axis of the luminaires should be aimed. This can also be a list of points that match the _ptsList.
 * ##### customLamp [Optional]
-Specify a custom lamp using the IES Custom Lamp component
+A custom lamp definition from the "Honeybee_IES Custom Lamp" component.
 
 #### Outputs
 * ##### readMe!

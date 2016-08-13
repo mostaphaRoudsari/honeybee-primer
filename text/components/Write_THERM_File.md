@@ -7,7 +7,7 @@ Use this component to write your THERM polygons and boundary conditions into a t
 #### Inputs
 * ##### polygons [Required]
 A list of thermPolygons from one or more "Honeybee_Create Therm Polygons" components.
-* ##### boundaries [Required]
+* ##### boundaries [Optional]
 A list of thermBoundaries from one or more "Honeybee_Create Therm Boundaries" components.
 * ##### meshLevel [Optional]
 An optional integer to set the mesh level of the resulting exported file.  The default is set to a coarse value of 6 but it may be necessary to increase this if THERM tells you to 'increase the quad tree mesh parameter in the file'.

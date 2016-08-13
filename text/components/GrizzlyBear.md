@@ -17,8 +17,8 @@ Script variable HBContext_
 Custom mesh setting. Use Grasshopper mesh setting components
 * ##### writegbXML [Required]
 Set to true to create gbxml
-* ##### workingDir []
-C:\gbXML by default
+* ##### workingDir [Required]
+Working directory
 * ##### fileName []
 choose a filename, no need to add the xml extension.  
 

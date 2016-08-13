@@ -17,7 +17,7 @@ Refresh
 Type of the analysis (e.g. illuminance, luminance,...)
 * ##### resultsUnit
 Unit of the results (e.g. lux, candela, wh/m2)
-* ##### illFiles
+* ##### resultFiles
 List of ill files from annual analysis
 * ##### ptsFiles
 List of point files

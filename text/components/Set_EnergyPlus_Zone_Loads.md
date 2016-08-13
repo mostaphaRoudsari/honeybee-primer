@@ -10,7 +10,7 @@ Honeybee zones for which you want to change the loads.
 * ##### equipmentLoadPerArea [Optional]
 The desired equipment load per square meter of floor.  Values here should be in W/m2 (Watts per square meter).  Typical values can range from 2 W/m2 (for just a laptop or two in the zone) to 15 W/m2 for an office filled with computers and appliances.
 * ##### infiltrationRatePerArea [Optional]
-The desired rate of outside air infiltration into the zone per square meter of floor.  Values here should be in m3/s-m2 (Cubic meters per second per square meter of floor).  Typical values tend to be around 0.0002 m3/s-m2 for tightly sealed buildings but you can make this much higher if you want to simulate a lot of air entering the zone for ventilation. 
+The desired rate of outside air infiltration into the zone per square meter of floor.  Values here should be in m3/s-m2 (Cubic meters per second per square meter of floor).  ASHRAE recommends the following general infiltration rates based on the area of the facade exposed to the outdoors (note that you have to use the "Honeybee_infOrVentPerArea" to convert): 0.0001 (m3/s per m2 facade) - Tight building 0.0003 (m3/s per m2 facade) - Average building 0.0006 (m3/s per m2 facade) - Leaky building
 * ##### lightingDensityPerArea [Optional]
 The desired lighting load per square meter of floor.  Values here should be in W/m2 (Watts per square meter).  Typical values can range from 3 W/m2 for efficeint LED bulbs to 15 W/m2 for incandescent heat lamps.
 * ##### numOfPeoplePerArea [Optional]

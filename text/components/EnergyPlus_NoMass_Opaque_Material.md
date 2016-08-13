@@ -10,7 +10,7 @@ A text name for your NoMass Opaque Material.
 * ##### roughness [Default]
 A text value that indicated the roughness of your material.  This can be either "VeryRough", "Rough", "MediumRough", "MediumSmooth", "Smooth", and "VerySmooth".  The default is set to "Rough".
 * ##### R_Value [Required]
-Script variable Construction_NoMass
+A number representing the R-Value of the material in m2-K/W.
 * ##### thermAbsp [Default]
 An number between 0 and 1 that represents the thermal abstorptance of the material.  The default is set to 0.9, which is common for most non-metallic materials.
 * ##### solAbsp [Default]

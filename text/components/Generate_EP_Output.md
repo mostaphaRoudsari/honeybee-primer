@@ -21,8 +21,6 @@ Set to "True" to have EnergyPlus solve for the interior and exterior surface tem
 Set to "True" to have EnergyPlus solve for the gains and losses through the individual surfaces of each zone.
 * ##### glazingSolarAnalysis [Optional]
 Set to "True" to have EnergyPlus solve for the transmitted beam, diffuse, and total solar gain through the individual window surfaces of each zone.  These outputs are needed for Energy Shade Benefit Analysis.
-* ##### HBgeneration [Optional]
-Set to "True" to have EnergyPlus solve for variables related to HB generation objects like solar panels, wind turbines, batteries, etc.
 * ##### timestep [Optional]
 Specify a timestep by inputing the words 'hourly', 'daily', 'monthly' or 'annual'.  The default is set to hourly.
 
@@ -30,7 +28,7 @@ Specify a timestep by inputing the words 'hourly', 'daily', 'monthly' or 'annual
 * ##### report
 Report!
 * ##### simulationOutputs
-EnergyPlus code that should be plugged into the "simulationOutputs" parameter of the "writeIDF" component.
+EnergyPlus code that should be plugged into the "simulationOutputs" parameter of the "Honeybee_Export to OpenStudio" component.
 
 
 [Check Hydra Example Files for Generate EP Output](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Generate EP Output)

@@ -13,8 +13,8 @@ A number representing the conductivity of the THERM material in W/m-K.
 A number between 0 and 1 that represents the solar absorptivity of the material. The default is set to 0.5.
 * ##### emissivity [Optional]
 A number between 0 and 1 that represents the emissivity of the material. The default is set to 0.9.
-* ##### type [Optional]
-An integer that represents the type of material.  The defaul is set to 0 - solid.  Choose from the following options: 0 - Solid material 1 - Gas material
+* ##### cavityModel [Optional]
+An integer that represents the cavity model to use for the material (if it is a gas).  If you are creating a solid material, just leave this input blank.  Cavity models (4 - ISO 15099) and (5 - ISO 15099 ventilated) are used for most situations.  Choose from the following options: 0 - NFRC 1 - CEN 2 - CEN (slightly ventilated) 3 - NFRC with user dimensions 4 - ISO 15099 5 - ISO 15099 ventilated
 * ##### RGBColor [Optional]
 An optional color to set the color of the material when you import it into THERM.
 

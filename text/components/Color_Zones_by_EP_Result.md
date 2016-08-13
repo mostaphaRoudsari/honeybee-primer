@@ -17,8 +17,6 @@ Optional analysisPeriod_ to take a slice out of an annual data stream.  Note tha
 Optional interger for the hour of simulation to color the zones with.  Connecting a value here will override the analysisPeriod_ input.
 * ##### legendPar [Optional]
 Optional legend parameters from the Ladybug Legend Parameters component.
-* ##### recallHBHive [Optional]
-Set to 'True' to recall the zones from the hive each time the input changes and 'False' to simply copy the zones to memory.  Calling the zones from the hive can take some more time but this is necessary if you are making changes to the zones and you want to check them.  Otherwise, if you are just scrolling through attributes, it is nice to set this to 'False' for speed.  The default is set to 'False' for speed.
 * ##### runIt [Required]
 Set boolean to 'True' to run the component and color the zones.
 

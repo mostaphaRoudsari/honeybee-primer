@@ -15,8 +15,6 @@ Set to "True" to have the component label the window surfaces in the model inste
 An optional number for text height in Rhino model units that can be used to change the size of the label text in the Rhino scene.  The default is set based on the dimensions of the zones.
 * ##### font [Optional]
 An optional number that can be used to change the font of the label in the Rhino scene. The default is set to "Verdana".
-* ##### recallHBHive [Optional]
-Set to "True" to recall the zones from the hive each time the input changes and "False" to simply copy the zones to memory.  Calling the zones from the hive can take some more time but this is necessary if you are making changes to the zones and you want to check them.  Otherwise, if you are just scrolling through attributes, it is nice to set this to "False" for speed.  The default is set to "True" as this is safer.
 
 #### Outputs
 * ##### surfaceTxtLabels

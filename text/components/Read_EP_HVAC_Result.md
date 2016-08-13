@@ -7,8 +7,6 @@ This component reads the results of an EnergyPlus simulation from the WriteIDF C
 #### Inputs
 * ##### resultFileAddress [Required]
 The result file address that comes out of the WriteIDF component.
-* ##### normByFloorArea [Optional]
-Set to 'True' to normalize all zone energy data by floor area (note that the resulting units will be kWh/m2 as EnergyPlus runs in the metric system). The default is set to "False."
 
 #### Outputs
 * ##### sensibleCooling
@@ -25,10 +23,10 @@ The mass of supply air flowing into each zone in kg/s.
 The mean air temperature of the supply air for each zone (degrees Celcius).
 * ##### supplyAirHumidity
 The relative humidity of the supply air for each zone (%).
-* ##### earthTubeCooling
-The sensible energy removed by an earth tube system for each zone in kWh.
-* ##### earthTubeHeating
-The sensible energy added by an earth tube system for each zone in kWh.
+* ##### unmetHoursCooling
+Time Zone Cooling Setpoint Not Met Time
+* ##### unmetHoursHeating
+Time Zone Heating Setpoint Not Met Time
 
 
 [Check Hydra Example Files for Read EP HVAC Result](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Read EP HVAC Result)

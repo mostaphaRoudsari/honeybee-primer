@@ -23,6 +23,8 @@ A float or a list of floats which give the cost of each PV generator on each Hon
 A float or a list of floats which give the rated power output of each PV generator on each Honeybee surface in _HBSurfaces in watts. (This is the sum of the rated power output of each PV module on the surface in question, as a PV generator is made up of one or several PV modules). If only one float is given this value will be used for all other PV generators.
 * ##### PVInverter [Required]
 The inverter servicing all the PV generators in this component - to assign an inverter connect the HB_inverter here from the Honeybee inverter component
+* ##### sandiaMode [Optional]
+Input just ONE Sandria data set as a panel here. Examples can be seen in C:\EnergyPlusV8-4-0\MacroDataSet\SandiaPVdata
 
 #### Outputs
 * ##### readMe

@@ -19,12 +19,8 @@ set to True to apply the measure and run the analysis
 The execution information, as output and error streams
 * ##### projectFolder
 Path to new project folder
-* ##### modifiedIdfFilePath
+* ##### outputFiles
 Path to modified EnergyPlus file
-* ##### modifiedOsmFilePath
-Path to modified OpenStudio file
-* ##### resultsFileAddress
-Path to .csv results file
 
 
 [Check Hydra Example Files for Apply OpenStudio Measure](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Apply OpenStudio Measure)

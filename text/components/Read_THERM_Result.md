@@ -12,7 +12,9 @@ An optional filepath to a THERM file that has been generated with the 'Honeybee_
 * ##### uFactorFile [Optional]
 An optional path to a THERM file that has been saved after importing and simulating files generated with the 'Honeybee_Write THERM File' component. Before you run the file in THERM, make sure that you go to Options > Preferences > Preferences and check "Automatic XML Export on Save" in order to enure that your THERM simulation writes this uFactorFile.
 * ##### dataType [Optional]
-An optional integer to set the type of data to import.  If left blank, this component will import the temperature data.  Choose from the following two options: 0 - Temperature (temperature meshValues at each point in C) 1 - Heat Flux (heat flux meshValues at each point in C)
+An optional integer to set the type of data to import.  If left blank, this component will import the temperature data.  Choose from the following two options: 0 - Temperature (temperature meshValues at each point in C) 1 - Heat Flux (heat flux meshValues at each point in W/m2)
+* ##### SIorIP [Optional]
+Set to 'True' to have all data imported with SI units (Celcius and W/m2) and set to 'False' to have all data imported with IP Units (Farenheit and BTU/ft2).  The default is set to 'True' for SI.
 * ##### legendPar [Optional]
 Optional legend parameters from the Ladybug "Legend Parameters" component.
 * ##### runIt [Required]

@@ -7,14 +7,14 @@ This is the core component for adding photometric data into a lighting simulatio
 #### Inputs
 * ##### iesFilePath [Required]
 Specify the file path for .ies photometry file.
-* ##### luminaireID [Required]
-Custom name for the luminaire rad file. The default name is the same as the name of the IES file.
 * ##### luminaireZone [Required]
 List of (3-d coordinate, Aiming Angle) combinations that are generated through the IES Luminaire Array component.
 * ##### lightLossFactor [Default]
-Optional value for light loss factor. Default is 1.0
+An optional number that will be multiplied by the luminosity of the light.  This can be used to account for different light bulb luminosities or light loss from additional fixture obstructions around the light. The default is set to 1.0.
 * ##### candelaMultiplier [Default]
-Assign a scaling value for the candela tables. This value gets multiplied by the _lightLossFactor_ value.
+Assign a scaling value for the candela tables. This value gets multiplied by the _lightLossFactor_ value. Default is set to 1.0.
+* ##### customLumName [Default]
+Specify a custom name for the luminaire. This input should only be used in case the manufacturer hasn't provided a value for [LUMCAT] in the photometric data.
 * ##### customLamp [Optional]
 Specify a custom lamp using the IES Custom Lamp component
 * ##### drawLuminaireWeb [Default]
@@ -26,7 +26,7 @@ Draw the polygon, circle or box representing the luminous opening of the luminai
 * ##### extendLumAxesToPt [Optional]
 Specify a point to which the luminaire axes should be extended to. Please note that if the aiming of the luminaire is very far way from this point then some abnormal results might be seen.
 * ##### radDir [Default]
-Custom location for the luminaire rad file. The default location is the same as where the original IES file is located.
+Custom location for the luminaire rad file. The default location is inside the Ladybug folder on your system.
 * ##### writeRad [Required]
 Set to True to create the file for electric lighting simulation.
 
@@ -35,12 +35,14 @@ Set to True to create the file for electric lighting simulation.
 The execution information, as output and error streams
 * ##### luminaireDetails
 A description of the luminaire generated after parsing the IES file.
-* ##### luminaire3dWeb
+* ##### luminaireGeo
 The geometry created in the Rhino viewport for visualizing the luminaire. Can be used for generating previews.
 * ##### luminaireList
 List of luminaires and their locations and mounting angles.
+* ##### elecLightingData
+Details about the luminaire, locations and lamps used in the simulation. Connect this output to the _elecLightingData input of the Honeybee_IES Project component.
 * ##### radFilePath
-Location of the RAD file that should be included in the project. Connect this output to the _additionalRadFiles_ input in the Honeybee_Run_DaylightSimulation module.
+Location of the RAD file that should be included in the project. Connect this output to the _additionalRadFiles_ input in the Honeybee_Run_DaylightSimulation module. This output will soon be deprecated. It is recommended that you use the elecLightingData output instead.
 
 
 [Check Hydra Example Files for IES Luminaire](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_IES Luminaire)
