@@ -14,9 +14,9 @@ The total thermal energy used by each zone in kWh.  This includes cooling and he
 * ##### thermalLoadBalance
 The thermal energy used by each zone in kWh.  Heating values are positive while cooling values are negative. This is useful for computing balance points.
 * ##### cooling
-The cooling energy needed in kWh. For Ideal Air loads, this is the sum of sensible and latent heat that must be removed from each zone.  For distributed OpenStudio systems like Packaged Terminal Heat Pumps (PTHP), this will be electric energy for each zone. For central OpenStudio systems, this ouput will be a single list of chiller electric energy for the whole building.
+The cooling energy needed in kWh. For Ideal Air loads, this output is the sum of sensible and latent heat that must be removed from each zone.  For detailed HVAC systems (other than ideal air), this output will be electric energy needed to power each chiller/cooling coil.
 * ##### heating
-The heating energy needed in kWh. For Ideal Air loads, this is the sum of sensible and latent heat that must be removed from each zone.  For distributed OpenStudio systems like Packaged Terminal Heat Pumps (PTHP), this will be electric energy for each zone.  For central OpenStudio systems, this ouput will be a single list of boiler heat energy for the whole building.
+The heating energy needed in kWh. For Ideal Air loads, this is the heat that must be added to each zone.  For detailed HVAC systems (other than ideal air), this will be fuel energy or electric energy needed for each boiler/heating element.
 * ##### electricLight
 The electric lighting energy needed for each zone in kWh.
 * ##### electricEquip

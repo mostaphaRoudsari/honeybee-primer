@@ -6,13 +6,13 @@ Mirror Honeybee Objects -
 
 #### Inputs
 * ##### HBObj [Required]
-Script variable Python
+Honeybee surface or Honeybee zone
 * ##### plane [Required]
 Mirror plane
 
 #### Outputs
 * ##### HBObj
-Script variable moveHBObj
+Transformed objects
 
 
 [Check Hydra Example Files for Mirror Honeybee](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Mirror Honeybee)

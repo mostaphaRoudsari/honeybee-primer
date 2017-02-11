@@ -20,9 +20,11 @@ Set to True to run the analysis
 * ##### glareCheckImage
 Path to HDR image of the glare study
 * ##### DGP
-Daylight glare probability. Imperceptible Glare [0.35 > DGP], Perceptible Glare [0.4 > DGP >= 0.35], Disturbing Glare [0.45 > DGP >= 0.4], Intolerable Glare [DGP >= 0.45]
+Daylight glare probability. 
 * ##### DGI
 Daylight glare index
+* ##### glareComfortRange
+Comfort Ranges. Imperceptible Glare [0.35 > DGP], Perceptible Glare [0.4 > DGP >= 0.35], Disturbing Glare [0.45 > DGP >= 0.4], Intolerable Glare [DGP >= 0.45] 
 * ##### imageWithTaskArea
 Path to HDR image with task area marked with blue circle
 

@@ -2,11 +2,11 @@
 
 ![](../../images/components/Set_EP_Zone_Interior_Construction.png)
 
-Set EP Zone Interior Construction - 
+Set EP Zones Interior Construction - 
 
 #### Inputs
-* ##### HBZone [Required]
-Honeybee zone
+* ##### HBZones [Required]
+Honeybee zones
 * ##### intWallEPConstruction [Optional]
 Optional new construction for interior walls
 * ##### intWindowEPConstruction [Optional]
@@ -17,7 +17,7 @@ Optional new construction for interior floors
 Optional new construction for interior ceilings.  If no value is connected here but a value is connected for interior floors, the intCeiling construction will be assumed to be the same as the intFloor construction above.
 
 #### Outputs
-* ##### modifiedHBZone
+* ##### modifiedHBZones
 Honeybee zone with updated constructions
 
 

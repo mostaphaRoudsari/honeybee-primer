@@ -5,7 +5,7 @@
 Update EP construction of zone based on type - 
 
 #### Inputs
-* ##### HBZone [Required]
+* ##### HBZones [Required]
 Honeybee zone
 * ##### undergroundWallEPConstruction [Optional]
 Optional new construction for underground walls
@@ -17,7 +17,7 @@ Optional new construction for underground slabs
 Optional new construction for underground ceilings
 
 #### Outputs
-* ##### modifiedHBZone
+* ##### modifiedHBZones
 Honeybee zone with updated constructions
 
 

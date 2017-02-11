@@ -2,23 +2,23 @@
 
 ![](../../images/components/Scale_Honeybee.png)
 
-A python scriptable component
+Scale Honeybee Objects Non-Uniformly - 
 
 #### Inputs
 * ##### HBObj [Required]
-Script variable Python
-* ##### P []
-Script input P.
-* ##### X []
-Script input X.
-* ##### Y []
-Script input Y.
-* ##### Z []
-Script input Z.
+Honeybee surface or Honeybee zone
+* ##### plane [Default]
+Base Plane
+* ##### X [Default]
+Scaling factor in {x} direction
+* ##### Y [Default]
+Scaling factor in {y} direction
+* ##### Z [Default]
+Scaling factor in {z} direction
 
 #### Outputs
-* ##### HBObjs
-Script output HBObjs.
+* ##### HBObj
+Transformed objects
 
 
 [Check Hydra Example Files for Scale Honeybee](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Scale Honeybee)

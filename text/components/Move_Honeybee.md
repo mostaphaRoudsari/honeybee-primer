@@ -6,13 +6,13 @@ Move Honeybee Objects -
 
 #### Inputs
 * ##### HBObj [Required]
-Script variable Python
+Honeybee surface or Honeybee zone
 * ##### vector [Required]
 Transform vector
 
 #### Outputs
 * ##### HBObj
-Script variable moveHBObj
+Transformed objects
 
 
 [Check Hydra Example Files for Move Honeybee](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Move Honeybee)

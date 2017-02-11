@@ -16,7 +16,7 @@ A text string representing the heating setpoint shceudle that you want to use.  
 * ##### coolingSetPtSchedules [Optional]
 A text string representing the cooling setpoint shceudle that you want to use.  This can be either a shcedule from the "Honeybee_Call from EP Schedule Library" component, a schedule from the "Honeybee_Annual Schedule" component, or a CSV schedule from the "Honeybee_Create CSV Schedule" component.  If this is a custon schedule, the values in it should be Watts and the "units_" or "_schedTypeLimits_" input should be "Temperature."
 * ##### lightingSchedules [Optional]
-...
+A text string representing the lighting shceudle that you want to use.  This can be either a shcedule from the "Honeybee_Call from EP Schedule Library" component, a schedule from the "Honeybee_Annual Schedule" component, or a CSV schedule from the "Honeybee_Create CSV Schedule" component.
 * ##### equipmentSchedules [Optional]
 A text string representing the equipment shceudle that you want to use.  This can be either a shcedule from the "Honeybee_Call from EP Schedule Library" component, a schedule from the "Honeybee_Annual Schedule" component, or a CSV schedule from the "Honeybee_Create CSV Schedule" component.
 * ##### infiltrationSchedules [Optional]

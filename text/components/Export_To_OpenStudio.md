@@ -38,9 +38,11 @@ Check here to see a report of the EnergyPlus run, including errors.
 * ##### osmFileAddress
 The file path of the OSM file that has been generated on your machine.
 * ##### idfFileAddress
-The file path of the IDF file that has been generated on your machine. This only happens when you set "runSimulation_" to "True."
+The file path of the IDF file that has been generated on your machine. This file is only generated when you set "runSimulation_" to "True."
 * ##### resultsFileAddress
 Script variable exportToOpenStudio
+* ##### eioFileAddress
+The file path of the EIO file that has been generated on your machine.  This file contains information about the sizes of all HVAC equipment from the simulation.  This file is only generated when you set "runSimulation_" to "True."
 * ##### rddFileAddress
 The file path of the Result Data Dictionary (.rdd) file that is generated after running the file through EnergyPlus.  This file contains all possible outputs that can be requested from the EnergyPlus model.  Use the "Honeybee_Read Result Dictionary" to see what outputs can be requested.
 * ##### studyFolder

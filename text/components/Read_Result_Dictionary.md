@@ -7,7 +7,9 @@ This component parses an .rdd file from an energy simulation to show all possibl
 #### Inputs
 * ##### rddFile [Required]
 The file address of the rdd file that comes out of the "Honeybee_Lookup EnergyPlus Folder" component.
-* ##### timestep [Optional]
+* ##### keywords [Optional]
+Optional keywords that will be used to search through the outputs.
+* ##### timestep [Default]
 Specify a timestep by inputing the words 'hourly', 'daily', 'monthly' or 'annual'.  The default is set to hourly.
 
 #### Outputs

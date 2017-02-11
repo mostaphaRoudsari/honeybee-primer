@@ -25,8 +25,6 @@ An optional file name for the result files as a string.
 An optional working directory on your system. Default is set to C:\Ladybug
 * ##### writeResultFile [Optional]
 Set to 1 or 'True' to have the component write all results into CSV result files and set to 0 or 'False' to not have the component write these files.  The default is set to 'True' as these simulations can be long and you usually want a copy of your results.  You may want to set it to 'False' if you are just scrolling through key hours and want the fastest run possible.  Set to 2 if you want the component to only write the results for the TCPocc and TCA matrices.
-* ##### parallel [Optional]
-Set to 'True' to have the operation run with multiple cores and 'False' to run it with a single core.  Note that, because the calculation performed by this component is fairly simple, setting parallel to 'True' can sometimes increase the calculation time so it should only be used in cases where there are a large number of test points.  Because of the possibility of increaseing calculation time, the default is set to 'False' to run the operation as single-core.
 * ##### runIt [Required]
 Set boolean to "True" to run the component and calculate comfort autonomy.
 

@@ -2,7 +2,7 @@
 
 ![](../../images/components/Generate_EP_Output.png)
 
-This component helps select simulation outputs that can be hooked into the WriteIDF component.  Outputs are taken from here: http://apps1.eere.energy.gov/buildings/energyplus/pdfs/inputoutputreference.pdf - 
+This component helps select simulation outputs that can be hooked into the "Honyebee_Export to OpenStudio" component.  Outputs are taken from here: http://bigladdersoftware.com/epx/docs/8-3/input-output-reference/ _ You can also use the "Honeybee_Read Result Dictionary" component after running a simulation to get a list of all possible outputs that you can request from a given simulation. - 
 
 #### Inputs
 * ##### zoneEnergyUse [Optional]

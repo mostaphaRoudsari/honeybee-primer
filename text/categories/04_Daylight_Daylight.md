@@ -17,6 +17,7 @@
 * ![IMAGE](../../images/icons/Daysim_shading_group_sensors.png) [Daysim_shading_group_sensors](../components/Daysim_shading_group_sensors.md)
 * ![IMAGE](../../images/icons/Lighting_control_Recipe.png) [Lighting_control_Recipe](../components/Lighting_control_Recipe.md)
 * ![IMAGE](../../images/icons/Convert_HDR_to_TIF.png) [Convert_HDR_to_TIF](../components/Convert_HDR_to_TIF.md)
+* ![IMAGE](../../images/icons/Convert_IMG.png) [Convert_IMG](../components/Convert_IMG.md)
 * ![IMAGE](../../images/icons/Convert_TIF_to_HDR.png) [Convert_TIF_to_HDR](../components/Convert_TIF_to_HDR.md)
 * ![IMAGE](../../images/icons/Import_dgp_File.png) [Import_dgp_File](../components/Import_dgp_File.md)
 * ![IMAGE](../../images/icons/MSH2RAD.png) [MSH2RAD](../components/MSH2RAD.md)

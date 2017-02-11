@@ -12,9 +12,9 @@ A surface or list of surfaces that represent the custom window(s) that you would
 * ##### childSurfacesName [Optional]
 An optional list of names for child surfaces. If names are provided the length of names should be the same as _childSurfaces.
 * ##### EPConstructions [Optional]
-An optional EnergyPlus construction to set the material construction of the window added to the HBSurface or HBZone.  This can be either the name of a window construction from the OpenStudio library (coming out of the 'Honeybee_Call from EP Construction Library' component) or a custom window construction you created from the 'Honeybee_EnergyPlus Construction' component.
+An optional list of EnergyPlus constructions to set the material construction of the window added to the HBSurface or HBZone.  This can be either the name of a window construction from the OpenStudio library (coming out of the 'Honeybee_Call from EP Construction Library' component) or a custom window construction you created from the 'Honeybee_EnergyPlus Construction' component. The list should match with childSurfaces list. In case the list doesn't match the first construction will be used for all surfaces.
 * ##### RADMaterials [Optional]
-An optional Radiance material to set the material of the window added to the HBSurface or HBZone.  This can be either the name of a window material from the default Radaince library (coming out of the 'Honeybee_Call from Radiance Library' component) or a custom window material you created from any of the Radiance material components (like the 'Honeybee_Radiance Glass Material' component).
+An optional Radiance material to set the material of the window added to the HBSurface or HBZone.  This can be either the name of a window material from the default Radaince library (coming out of the 'Honeybee_Call from Radiance Library' component) or a custom window material you created from any of the Radiance material components (like the 'Honeybee_Radiance Glass Material' component). The list should match with childSurfaces list. In case the list doesn't match the first material will be used for all surfaces.
 
 #### Outputs
 * ##### HBObjWGLZ

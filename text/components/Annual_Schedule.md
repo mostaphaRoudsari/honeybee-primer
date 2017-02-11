@@ -20,10 +20,14 @@ Friday. Connect a list of 24 values that represent the schedule value at each ho
 * ##### sat [Required]
 Saturday. Connect a list of 24 values that represent the schedule value at each hour of the day.
 * ##### holiday [Optional]
-Optional input for holidays. Connect a list of 24 values that represent the schedule value at each hour of the day.
+Optional input for holidays. Connect a list of 24 values that represent the schedule value at each hour of the day. If no value is input here, the schedule for Sunday will be used for all holidays.
+* ##### coolDesignDay [Optional]
+Optional input for the cooling design day that is used to size the system. Connect a list of 24 values that represent the schedule value at each hour of the day. If no value is input here, the schedule for Monday will be used for the cooling design day.
+* ##### heatDesignDay [Optional]
+Optional input for the heating design day that is used to size the system. Connect a list of 24 values that represent the schedule value at each hour of the day. If no value is input here, the schedule for Sunday will be used for the heating design day.
 * ##### epwFileForHol [Optional]
 If you want to generate a list of holiday DOYs automatically connect an .epw file path on your system as a string.
-* ##### overwriteHolidays [Optional]
+* ##### customHolidays [Optional]
 Connect a list of DOYs (from 1 to 365) or a list of strings (example: DEC 25). - Note that this input overwrites epwFile DOYs.
 * ##### startDayOfWeek [Optional]
 Set the schedule start day of the week. The default is set to "monday". - Write one of the following string: 1) sun 2) mon 3) tue 4) wed 5) thu 6) fri 7) sat

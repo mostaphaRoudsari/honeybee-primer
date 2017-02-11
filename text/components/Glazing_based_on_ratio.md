@@ -19,12 +19,10 @@ An optional number in Rhino model units that sets the height of your windows on 
 An optional number in Rhino model units that sets the distance from the floor to the bottom of your windows on rectangular surfaces when the breakUpWindow_ input above is set to 'True'.  This input can also accept lists of values and will assign different sill heights based on cardinal direction, starting with north and moving counter-clockwise.  Note that this input will be over-ridden at high glazing ratios or window heights.  The default is set to 0.8 meters (or 80 centimeters).
 * ##### splitGlzVertDist [Optional]
 An optional number in Rhino model units that splits the windows on rectangular surfaces into two with a vertical distance between them equal to this input when the breakUpWindow_ input above is set to 'True'.  This input can also accept lists of values and will assign different vertical distances based on cardinal direction, starting with north and moving counter-clockwise.  Note that this input will be over-ridden at high glazing ratios, high window heights, or high sill heights.
-* ##### skyLightRatio [Optional]
-If you have input a full zone or list of zones as your HBObjects, use this input to generate skylights on the roof surfaces. A single window for each surface is good for making energy simulations run fast while several distributed windows is often necessary to have accurate daylight simulations or high-resolution thermal maps. The default is set to "True" to generate multiple distributed windows.
-* ##### breakUpSkylight [Optional]
-Set to "True" to generate a distributed set of multiple windows for skylights and set to "False" to generate just a single window per roof surface.
-* ##### skyLightBreakUpDist [Optional]
-An optional number in Rhino model units that sets the distance between individual skylights when the breakUpSkylight_ input above is set to 'True'.  The default is set to 3 meters.
+* ##### EPConstructions [Optional]
+A optional text string of an EnergyPlus construction name that sets the material construction of the window. This input can also accept lists of values and will assign different EPconstructions based on cardinal direction, starting with north and moving counter-clockwise.  The default will assign a generic double pane window without low-e coatings.
+* ##### RADMaterials [Optional]
+A optional text string of an Radiance glass material name that sets the material of the window. This input can also accept lists of values and will assign different RadMaterials based on cardinal direction, starting with north and moving counter-clockwise.
 * ##### runIt [Required]
 set runIt to True to generate the glazing
 

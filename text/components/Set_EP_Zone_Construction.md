@@ -5,10 +5,10 @@
 Update EP construction of zone based on type - 
 
 #### Inputs
-* ##### HBZone [Required]
-Honeybee zone
+* ##### HBZones [Required]
+Honeybee zones
 * ##### wallEPConstruction [Optional]
-Optional new construction for walls. This input can also accept lists of construction names and will assign different constructions based on cardinal direction, starting with north and moving counter-clockwise.
+Optional new construction for walls
 * ##### windowEPConstruction [Optional]
 Optional new construction for windows
 * ##### roofEPConstruction [Optional]
@@ -21,7 +21,7 @@ Optional new construction for exposed floors
 Optional new construction for skylights
 
 #### Outputs
-* ##### modifiedHBZone
+* ##### modifiedHBZones
 Honeybee zone with updated constructions
 
 
