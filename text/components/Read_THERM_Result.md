@@ -7,10 +7,10 @@ Use this component to import the colored mesh results from a THERM simulation.  
 #### Inputs
 * ##### resultFile [Required]
 The resultFileAddress from the "Write THERM File" component.  Make sure that you have opened THERM and run your file before using this component. Also, before you run the file in THERM, make sure that you go to Options > Preferences > Simulation and check "Save Conrad results file (.O)" in order to enure that your THERM simulation writes this file.
-* ##### thermFile [Optional]
-An optional filepath to a THERM file that has been generated with the 'Honeybee_Write THERM File' component.  The header of this file contains information on the transformations used to map the original geometry between Rhino space and the THERM canvas.  As a result, connecting a file here ensures that imported results happen on top of the original Rhino geometry.  If no file address is connected here, the THERM results are imported with their THERM canvass coordinates.
 * ##### uFactorFile [Optional]
 An optional path to a THERM file that has been saved after importing and simulating files generated with the 'Honeybee_Write THERM File' component. Before you run the file in THERM, make sure that you go to Options > Preferences > Preferences and check "Automatic XML Export on Save" in order to enure that your THERM simulation writes this uFactorFile.
+* ##### thermFile [Optional]
+An optional filepath to a THERM file that has been generated with the 'Honeybee_Write THERM File' component.  The header of this file contains information on the transformations used to map the original geometry between Rhino space and the THERM canvas.  As a result, connecting a file here ensures that imported results happen on top of the original Rhino geometry.  If no file address is connected here, the THERM results are imported with their THERM canvass coordinates.
 * ##### dataType [Optional]
 An optional integer to set the type of data to import.  If left blank, this component will import the temperature data.  Choose from the following two options: 0 - Temperature (temperature meshValues at each point in C) 1 - Heat Flux (heat flux meshValues at each point in W/m2)
 * ##### SIorIP [Optional]

@@ -39,6 +39,8 @@ THIS OPTION IS JUST FOR ADVANCED USERS OF ENERGYPLUS.  You can input additional 
 Check here to see a report of the EnergyPlus run, including errors.
 * ##### idfFileAddress
 The file path of the IDF file that has been generated on your machine.
+* ##### htmlReport
+The Html file path of the Building Utility Performance Summar. You can review the report by copying the file path, and open it in your web browser.
 * ##### resultFileAddress
 The file path of the CSV result file that has been generated on your machine.  This only happens when you set "runEnergyPlus_" to "True."
 

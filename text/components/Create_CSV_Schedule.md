@@ -13,7 +13,7 @@ Text for the units of the input values above.  The default is "Dimensionless" fo
 If your input units do not represent a full year, use this input to specify the period of the year that the schedule applies to.
 * ##### timeStep [Optional]
 If your connected _values do not represent a value for each hour (ie. one value for every half-hour), input an interger here to specify the timestep.  Inputting 2 means that every 2 values indicate an hour (each value indicates a half-hour), etc.
-* ##### scheduleName [Optional]
+* ##### scheduleName [Required]
 Input a name for your schedule here.  The default is "unnamedSchedule".
 * ##### writeFile [Required]
 Set to "True" to generate the .csv schedule.

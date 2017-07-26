@@ -5,7 +5,6 @@
 * ![IMAGE](../../images/icons/Search_EP_Construction.png) [Search_EP_Construction](../components/Search_EP_Construction.md)
 * ![IMAGE](../../images/icons/Add_to_EnergyPlus_Library.png) [Add_to_EnergyPlus_Library](../components/Add_to_EnergyPlus_Library.md)
 * ![IMAGE](../../images/icons/Call_from_EP_Construction_Library.png) [Call_from_EP_Construction_Library](../components/Call_from_EP_Construction_Library.md)
-* ![IMAGE](../../images/icons/Customize_EnergyPlus_Objects.png) [Customize_EnergyPlus_Objects](../components/Customize_EnergyPlus_Objects.md)
 * ![IMAGE](../../images/icons/Decompose_EP_Construction.png) [Decompose_EP_Construction](../components/Decompose_EP_Construction.md)
 * ![IMAGE](../../images/icons/Decompose_EP_Material.png) [Decompose_EP_Material](../components/Decompose_EP_Material.md)
 * ![IMAGE](../../images/icons/EnergyPlus_Glass_Material.png) [EnergyPlus_Glass_Material](../components/EnergyPlus_Glass_Material.md)

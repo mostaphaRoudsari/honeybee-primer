@@ -17,6 +17,8 @@
 * ![IMAGE](../../images/icons/Label_Zones.png) [Label_Zones](../components/Label_Zones.md)
 * ![IMAGE](../../images/icons/Surface_Attribute_List.png) [Surface_Attribute_List](../components/Surface_Attribute_List.md)
 * ![IMAGE](../../images/icons/Zone_Attribute_List.png) [Zone_Attribute_List](../components/Zone_Attribute_List.md)
+* ![IMAGE](../../images/icons/Dump_Honeybee_Objects.png) [Dump_Honeybee_Objects](../components/Dump_Honeybee_Objects.md)
+* ![IMAGE](../../images/icons/Load_Honeybee_Objects.png) [Load_Honeybee_Objects](../components/Load_Honeybee_Objects.md)
 * ![IMAGE](../../images/icons/Mirror_Honeybee.png) [Mirror_Honeybee](../components/Mirror_Honeybee.md)
 * ![IMAGE](../../images/icons/Move_Honeybee.png) [Move_Honeybee](../components/Move_Honeybee.md)
 * ![IMAGE](../../images/icons/Rotate_Honeybee.png) [Rotate_Honeybee](../components/Rotate_Honeybee.md)

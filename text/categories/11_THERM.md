@@ -7,4 +7,5 @@
 * ![IMAGE](../../images/icons/Therm_Material.png) [Therm_Material](../components/Therm_Material.md)
 * ![IMAGE](../../images/icons/Import_THERM_XML.png) [Import_THERM_XML](../components/Import_THERM_XML.md)
 * ![IMAGE](../../images/icons/Read_THERM_Result.png) [Read_THERM_Result](../components/Read_THERM_Result.md)
+* ![IMAGE](../../images/icons/Custom_Radiant_Environment.png) [Custom_Radiant_Environment](../components/Custom_Radiant_Environment.md)
 * ![IMAGE](../../images/icons/Therm_Material_to_EnergyPlus_Material.png) [Therm_Material_to_EnergyPlus_Material](../components/Therm_Material_to_EnergyPlus_Material.md)

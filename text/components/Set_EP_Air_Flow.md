@@ -21,6 +21,8 @@ A number or list of numbers between -100 and 100 that represents the maximum ind
 A number or list of numbers between -100 and 100 that represents the minimum outdoor temperature at which to naturally ventilate.  This can be either a single number to be applied to all connected zones or a list of numbers for each different zone.
 * ##### maxOutdoorTempForNatVent [Optional]
 A number or list of numbers between -100 and 100 that represents the minimum outdoor temperature at which to naturally ventilate.  Use this to design night flushed buildings where windows are closed for daytime temperatures and opened at night or a mixed-mode buildings where you would like occupants to shut the windows and turn on a cooling system if it gets too hot outside. This can be either a single number to be applied to all connected zones or a list of numbers for each different zone.
+* ##### deltaTempForNatVent [Optional]
+A number or list of numbers between -100 and 100 that represents the temperature differential between indoor and outdoor below which ventilation is shutoff.  This should usually be a negative number so that you open the windows when the outdoors is cooler than the indoors. This can be either a single number to be applied to all connected zones or a list of numbers for each different zone.
 * ##### openingAreaFractionalSched [Optional]
 An optional schedule to set the fraction of the window that is open at each hour.
 * ##### fractionOfGlzAreaOperable [Optional]

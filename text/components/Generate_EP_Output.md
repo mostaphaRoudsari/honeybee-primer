@@ -21,6 +21,8 @@ Set to "True" to have EnergyPlus solve for the interior and exterior surface tem
 Set to "True" to have EnergyPlus solve for the gains and losses through the individual surfaces of each zone.
 * ##### glazingSolarAnalysis [Optional]
 Set to "True" to have EnergyPlus solve for the transmitted beam, diffuse, and total solar gain through the individual window surfaces of each zone.  These outputs are needed for Energy Shade Benefit Analysis.
+* ##### loadType [Default]
+An integer or text value to set the type of load outputs requested (sensible, latent, total).  The default is set to "0 = Total" but you may want to change this to "1 = Sensible" for zone HVAC sizing, etc.  Choose from the following options: 0 = Total 1 = Sensible 2 = Latent
 * ##### timestep [Optional]
 Specify a timestep by inputing the words 'hourly', 'daily', 'monthly' or 'annual'.  The default is set to hourly.
 

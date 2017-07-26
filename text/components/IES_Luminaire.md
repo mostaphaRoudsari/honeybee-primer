@@ -31,8 +31,6 @@ Custom location for the luminaire rad file. The default location is inside the L
 Set to True to create the file for electric lighting simulation.
 
 #### Outputs
-* ##### readMe!
-The execution information, as output and error streams
 * ##### luminaireDetails
 A description of the luminaire generated after parsing the IES file.
 * ##### luminaireGeo

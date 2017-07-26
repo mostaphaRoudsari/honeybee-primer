@@ -39,14 +39,18 @@ Check here to see a report of the EnergyPlus run, including errors.
 The file path of the OSM file that has been generated on your machine.
 * ##### idfFileAddress
 The file path of the IDF file that has been generated on your machine. This file is only generated when you set "runSimulation_" to "True."
-* ##### resultsFileAddress
-Script variable exportToOpenStudio
+* ##### resultFileAddress
+The file path of the CSV result file that has been generated on your machine.  This file is only generated when you set "runSimulation_" to "True."
 * ##### eioFileAddress
 The file path of the EIO file that has been generated on your machine.  This file contains information about the sizes of all HVAC equipment from the simulation.  This file is only generated when you set "runSimulation_" to "True."
 * ##### rddFileAddress
 The file path of the Result Data Dictionary (.rdd) file that is generated after running the file through EnergyPlus.  This file contains all possible outputs that can be requested from the EnergyPlus model.  Use the "Honeybee_Read Result Dictionary" to see what outputs can be requested.
+* ##### htmlReport
+Script variable exportToOpenStudio
 * ##### studyFolder
 The directory in which the simulation has been run.  Connect this to the 'Honeybee_Lookup EnergyPlus' folder to bring many of the files in this directory into Grasshopper.
+* ##### model
+The openStudio model ojbect. Use this output to generate gbXML files from your OpwnStudio models.
 
 
 [Check Hydra Example Files for Export To OpenStudio](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Export To OpenStudio)

@@ -13,6 +13,10 @@ Angle of rotation in degrees
 Script variable moveHBObj
 * ##### axis [Optional]
 Optional rotation axis as a vector. Default is Z Axis
+* ##### name [Default]
+An optional text string that will be appended to the name of the transformed object(s).  If nothing is input here, a default unique name will be generated.
+* ##### keepAdj [Optional]
+Set to 'False' to remove existing adjacencies and boundary conditions (this is useful if you plan to re-solve adjacencies after this component). If left blank or set to 'True', the component will preserve adjacencies with other zones.
 
 #### Outputs
 * ##### HBObj

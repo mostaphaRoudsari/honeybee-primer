@@ -41,7 +41,7 @@ An integer between 1 to 8 and defines the condition of the ground surface above 
 This field can be a float or a list of floats which correspond sequentially to the _HBZones. Each float is the thermal conductivity of the pipe (in W/m-K) the default is 200 W/m-K.  - This plays a role in determining the amount of heat transferred from the surrounding soil to the air passing along ALL the earth tubes.
 
 #### Outputs
-* ##### Readme
+* ##### readMe
 Details of the earth tubes created.
 * ##### earthTubeHBZones
 The Honeybee zones that have been modified by this component - these zones now contain an earth tube

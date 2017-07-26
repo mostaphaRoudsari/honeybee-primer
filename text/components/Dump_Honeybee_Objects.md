@@ -2,13 +2,15 @@
 
 ![](../../images/components/Dump_Honeybee_Objects.png)
 
-Dump Honeybee Objects Use this component to dump Honeybee objects to a file on your system. You can use load Honeybee objects to load the file to Grasshopper. WARNING: The component is WIP and it doesn't currently save the following properites:     1) custom schedules     2) custom materials     3) hvac airDetails, heatingDetails, coolingDetails     4) adjacencies between zones - 
+Dump Honeybee Objects Use this component to dump Honeybee objects to a file on your system. You can use load Honeybee objects to load the file to Grasshopper. WARNING: This component does not write custom schedules or materials within the file but it does write the names of the constructions and schedules. Accordingly, to properly load objects agian, you must connect the full strings of these objects to a "Add to EnergyPlus Library" component in any GH cript that loads the HBZones from the file. - 
 
 #### Inputs
 * ##### HBObjects [Required]
 A list of Honeybee objects
-* ##### filePath [Required]
-A valid path to a file on your drive (e.g. c:\ladybug\20ZonesExample.HB)
+* ##### fileName [Required]
+A name for the file to which HBObjects will be written (e.g. 20ZonesExample.HB).
+* ##### workingDir [Default]
+An optional working directory into which the HBZones will be written.  The default is set to C:\ladybug.
 * ##### dump [Required]
 Set to True to save the objects to file
 

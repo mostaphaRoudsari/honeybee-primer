@@ -9,14 +9,6 @@ This component reads the results of an EnergyPlus simulation from the WriteIDF C
 The result file address that comes out of the WriteIDF component.
 
 #### Outputs
-* ##### sensibleCooling
-The sensible energy removed by the ideal air cooling load for each zone in kWh.
-* ##### latentCooling
-The latent energy removed by the ideal air cooling load for each zone in kWh.
-* ##### sensibleHeating
-The sensible energy added by the ideal air heating load for each zone in kWh.
-* ##### latentHeating
-The latent energy added by the ideal air heating load for each zone in kWh.
 * ##### supplyVolFlow
 The mass of supply air flowing into each zone in kg/s.
 * ##### supplyAirTemp

@@ -9,6 +9,8 @@ Solve adjacencies -
 A list of Honeybee zones for which you want to calculate whether they are next to each other.
 * ##### altConstruction [Optional]
 An optional alternate EP construction to assign to all adjacent surfaces.  The default is set to be "Interior Wall", "Interior Foor" or "Interior Ceiling" or "Interior Window" depending on the type of surface that is adjacent.
+* ##### altWindowConstr [Optional]
+An optional alternate EP window construction to assign to all adjacent surfaces.  The default is set to be the "Interior Window" construction with a single pane of clear glass.
 * ##### altBC [Optional]
 An optional alternate boundary condition such as "Adiabatic".  The default will be "Surafce", which ensures that heat flows across each adjacent surface to a neighboring zone.
 * ##### tolerance [Optional]
