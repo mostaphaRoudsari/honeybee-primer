@@ -1,4 +1,4 @@
-## ![](../../images/icons/PerimeterCoreZoning.png) PerimeterCoreZoning
+## ![](../../images/icons/PerimeterCoreZoning.png) PerimeterCoreZoning - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_PerimeterCoreZoning.py)
 
 ![](../../images/components/PerimeterCoreZoning.png)
 

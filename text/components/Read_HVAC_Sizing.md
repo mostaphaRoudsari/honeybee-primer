@@ -1,4 +1,4 @@
-## ![](../../images/icons/Read_HVAC_Sizing.png) Read HVAC Sizing
+## ![](../../images/icons/Read_HVAC_Sizing.png) Read HVAC Sizing - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Read%20HVAC%20Sizing.py)
 
 ![](../../images/components/Read_HVAC_Sizing.png)
 

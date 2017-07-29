@@ -1,4 +1,4 @@
-## ![](../../images/icons/Separate_Zones_By_Floor.png) Separate Zones By Floor
+## ![](../../images/icons/Separate_Zones_By_Floor.png) Separate Zones By Floor - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Separate%20Zones%20By%20Floor.py)
 
 ![](../../images/components/Separate_Zones_By_Floor.png)
 

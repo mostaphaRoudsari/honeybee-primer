@@ -1,4 +1,4 @@
-## ![](../../images/icons/Generator_Wind_Horizontialaxis.png) Generator_Wind_Horizontialaxis
+## ![](../../images/icons/Generator_Wind_Horizontialaxis.png) Generator_Wind_Horizontialaxis - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Generator_Wind_Horizontialaxis.py)
 
 ![](../../images/components/Generator_Wind_Horizontialaxis.png)
 

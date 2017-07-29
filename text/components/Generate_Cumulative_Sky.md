@@ -1,8 +1,8 @@
-## ![](../../images/icons/Generate_Cumulative_Sky.png) Generate Cumulative Sky
+## ![](../../images/icons/Generate_Cumulative_Sky.png) Generate Cumulative Sky - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Generate%20Cumulative%20Sky.py)
 
 ![](../../images/components/Generate_Cumulative_Sky.png)
 
-This component generate a cumulative sky using GenCumulativeSky.exe. Only and only use it for radiation analysis (no daylighting!) GenCumulativeSky is developed by Darren Robinson and Andrew Stone, and modified by Christoph Reinhart. For more information, reference: "http://plea-arch.net/PLEA/ConferenceResources/PLEA2004/Proceedings/p1153final.pdf" The first time you use this component, you need to be connected to the internet so the component can download GenCumulativeSky.exe to the working directory. - 
+This component generate a cumulative sky using GenCumulativeSky.exe. Only and only use it for radiation analysis (no daylighting!) GenCumulativeSky is developed by Darren Robinson and Andrew Stone, and modified by Christoph Reinhart. For more information, reference: http://www.solemma.net/references/PLEA2004_RobinsonAndStone.pdf The first time you use this component, you need to be connected to the internet so the component can download GenCumulativeSky.exe to the working directory. - 
 
 #### Inputs
 * ##### weatherFile [Required]

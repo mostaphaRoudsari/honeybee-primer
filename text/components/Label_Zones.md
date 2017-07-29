@@ -1,4 +1,4 @@
-## ![](../../images/icons/Label_Zones.png) Label Zones
+## ![](../../images/icons/Label_Zones.png) Label Zones - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Label%20Zones.py)
 
 ![](../../images/components/Label_Zones.png)
 

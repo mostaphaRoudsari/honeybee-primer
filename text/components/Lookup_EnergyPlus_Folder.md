@@ -1,4 +1,4 @@
-## ![](../../images/icons/Lookup_EnergyPlus_Folder.png) Lookup EnergyPlus Folder
+## ![](../../images/icons/Lookup_EnergyPlus_Folder.png) Lookup EnergyPlus Folder - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Lookup%20EnergyPlus%20Folder.py)
 
 ![](../../images/components/Lookup_EnergyPlus_Folder.png)
 

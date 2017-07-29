@@ -1,4 +1,4 @@
-## ![](../../images/icons/addHBGlz.png) addHBGlz
+## ![](../../images/icons/addHBGlz.png) addHBGlz - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_addHBGlz.py)
 
 ![](../../images/components/addHBGlz.png)
 

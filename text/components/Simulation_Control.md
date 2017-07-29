@@ -1,4 +1,4 @@
-## ![](../../images/icons/Simulation_Control.png) Simulation Control
+## ![](../../images/icons/Simulation_Control.png) Simulation Control - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Simulation%20Control.py)
 
 ![](../../images/components/Simulation_Control.png)
 

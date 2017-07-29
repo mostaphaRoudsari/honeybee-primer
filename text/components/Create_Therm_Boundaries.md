@@ -1,4 +1,4 @@
-## ![](../../images/icons/Create_Therm_Boundaries.png) Create Therm Boundaries
+## ![](../../images/icons/Create_Therm_Boundaries.png) Create Therm Boundaries - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Create%20Therm%20Boundaries.py)
 
 ![](../../images/components/Create_Therm_Boundaries.png)
 

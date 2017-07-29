@@ -1,4 +1,4 @@
-## ![](../../images/icons/Solve_Adjacencies.png) Solve Adjacencies
+## ![](../../images/icons/Solve_Adjacencies.png) Solve Adjacencies - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Solve%20Adjacencies.py)
 
 ![](../../images/components/Solve_Adjacencies.png)
 

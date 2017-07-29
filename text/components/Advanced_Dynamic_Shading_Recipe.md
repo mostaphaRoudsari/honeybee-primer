@@ -1,4 +1,4 @@
-## ![](../../images/icons/Advanced_Dynamic_Shading_Recipe.png) Advanced Dynamic Shading Recipe
+## ![](../../images/icons/Advanced_Dynamic_Shading_Recipe.png) Advanced Dynamic Shading Recipe - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Advanced%20Dynamic%20Shading%20Recipe.py)
 
 ![](../../images/components/Advanced_Dynamic_Shading_Recipe.png)
 

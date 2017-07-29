@@ -1,4 +1,4 @@
-## ![](../../images/icons/IntersectMasses.png) IntersectMasses
+## ![](../../images/icons/IntersectMasses.png) IntersectMasses - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_IntersectMasses.py)
 
 ![](../../images/components/IntersectMasses.png)
 

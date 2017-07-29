@@ -1,4 +1,4 @@
-## ![](../../images/icons/Radiance_Trans_Material_By_Color.png) Radiance Trans Material By Color
+## ![](../../images/icons/Radiance_Trans_Material_By_Color.png) Radiance Trans Material By Color - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Radiance%20Trans%20Material%20By%20Color.py)
 
 ![](../../images/components/Radiance_Trans_Material_By_Color.png)
 

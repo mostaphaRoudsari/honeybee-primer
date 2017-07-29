@@ -1,4 +1,4 @@
-## ![](../../images/icons/Convert_TIF_to_HDR.png) Convert TIF to HDR
+## ![](../../images/icons/Convert_TIF_to_HDR.png) Convert TIF to HDR - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Convert%20TIF%20to%20HDR.py)
 
 ![](../../images/components/Convert_TIF_to_HDR.png)
 

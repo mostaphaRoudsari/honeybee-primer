@@ -1,4 +1,4 @@
-## ![](../../images/icons/Decompose_Based_On_Boundary_Condition.png) Decompose Based On Boundary Condition
+## ![](../../images/icons/Decompose_Based_On_Boundary_Condition.png) Decompose Based On Boundary Condition - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Decompose%20Based%20On%20Boundary%20Condition.py)
 
 ![](../../images/components/Decompose_Based_On_Boundary_Condition.png)
 

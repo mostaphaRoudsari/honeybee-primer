@@ -1,4 +1,4 @@
-## ![](../../images/icons/Set_Radiance_Materials.png) Set Radiance Materials
+## ![](../../images/icons/Set_Radiance_Materials.png) Set Radiance Materials - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Set%20Radiance%20Materials.py)
 
 ![](../../images/components/Set_Radiance_Materials.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Write_THERM_File.png) Write THERM File
+## ![](../../images/icons/Write_THERM_File.png) Write THERM File - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Write%20THERM%20File.py)
 
 ![](../../images/components/Write_THERM_File.png)
 

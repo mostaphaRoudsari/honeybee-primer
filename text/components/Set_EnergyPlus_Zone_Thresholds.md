@@ -1,4 +1,4 @@
-## ![](../../images/icons/Set_EnergyPlus_Zone_Thresholds.png) Set EnergyPlus Zone Thresholds
+## ![](../../images/icons/Set_EnergyPlus_Zone_Thresholds.png) Set EnergyPlus Zone Thresholds - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Set%20EnergyPlus%20Zone%20Thresholds.py)
 
 ![](../../images/components/Set_EnergyPlus_Zone_Thresholds.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Separate_conditioned_and_unconditioned_zones.png) Separate conditioned and unconditioned zones
+## ![](../../images/icons/Separate_conditioned_and_unconditioned_zones.png) Separate conditioned and unconditioned zones - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Separate%20conditioned%20and%20unconditioned%20zones.py)
 
 ![](../../images/components/Separate_conditioned_and_unconditioned_zones.png)
 

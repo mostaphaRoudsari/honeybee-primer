@@ -1,4 +1,4 @@
-## ![](../../images/icons/Select_by_Type.png) Select by Type
+## ![](../../images/icons/Select_by_Type.png) Select by Type - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Select%20by%20Type.py)
 
 ![](../../images/components/Select_by_Type.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Import_rad.png) Import rad
+## ![](../../images/icons/Import_rad.png) Import rad - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Import%20rad.py)
 
 ![](../../images/components/Import_rad.png)
 

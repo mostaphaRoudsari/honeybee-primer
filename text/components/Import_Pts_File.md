@@ -1,4 +1,4 @@
-## ![](../../images/icons/Import_Pts_File.png) Import Pts File
+## ![](../../images/icons/Import_Pts_File.png) Import Pts File - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Import%20Pts%20File.py)
 
 ![](../../images/components/Import_Pts_File.png)
 

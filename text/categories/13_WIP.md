@@ -1,7 +1,10 @@
 #### Component list:
+* ![IMAGE](../../images/icons/Condensation_calculator.png) [Condensation_calculator](../components/Condensation_calculator.md)
 * ![IMAGE](../../images/icons/GrizzlyBear.png) [GrizzlyBear](../components/GrizzlyBear.md)
 * ![IMAGE](../../images/icons/Import_idf.png) [Import_idf](../components/Import_idf.md)
 * ![IMAGE](../../images/icons/OpenStudio_to_gbXML.png) [OpenStudio_to_gbXML](../components/OpenStudio_to_gbXML.md)
+* ![IMAGE](../../images/icons/SplitBuildingMass2Floors.png) [SplitBuildingMass2Floors](../components/SplitBuildingMass2Floors.md)
+* ![IMAGE](../../images/icons/SplitFloor2ThermalZones.png) [SplitFloor2ThermalZones](../components/SplitFloor2ThermalZones.md)
 * ![IMAGE](../../images/icons/gbXML_to_Honeybee.png) [gbXML_to_Honeybee](../components/gbXML_to_Honeybee.md)
 * ![IMAGE](../../images/icons/Apply_OpenStudio_Measure.png) [Apply_OpenStudio_Measure](../components/Apply_OpenStudio_Measure.md)
 * ![IMAGE](../../images/icons/Load_OpenStudio_Measure.png) [Load_OpenStudio_Measure](../components/Load_OpenStudio_Measure.md)

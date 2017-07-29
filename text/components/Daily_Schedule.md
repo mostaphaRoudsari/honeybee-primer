@@ -1,4 +1,4 @@
-## ![](../../images/icons/Daily_Schedule.png) Daily Schedule
+## ![](../../images/icons/Daily_Schedule.png) Daily Schedule - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Daily%20Schedule.py)
 
 ![](../../images/components/Daily_Schedule.png)
 

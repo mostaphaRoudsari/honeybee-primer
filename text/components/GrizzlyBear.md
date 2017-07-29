@@ -1,4 +1,4 @@
-## ![](../../images/icons/GrizzlyBear.png) GrizzlyBear
+## ![](../../images/icons/GrizzlyBear.png) GrizzlyBear - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_GrizzlyBear.py)
 
 ![](../../images/components/GrizzlyBear.png)
 

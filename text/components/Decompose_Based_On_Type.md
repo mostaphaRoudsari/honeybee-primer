@@ -1,4 +1,4 @@
-## ![](../../images/icons/Decompose_Based_On_Type.png) Decompose Based On Type
+## ![](../../images/icons/Decompose_Based_On_Type.png) Decompose Based On Type - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Decompose%20Based%20On%20Type.py)
 
 ![](../../images/components/Decompose_Based_On_Type.png)
 

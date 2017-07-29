@@ -1,4 +1,4 @@
-## ![](../../images/icons/Create_Therm_Polygons.png) Create Therm Polygons
+## ![](../../images/icons/Create_Therm_Polygons.png) Create Therm Polygons - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Create%20Therm%20Polygons.py)
 
 ![](../../images/components/Create_Therm_Polygons.png)
 

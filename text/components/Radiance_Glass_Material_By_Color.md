@@ -1,4 +1,4 @@
-## ![](../../images/icons/Radiance_Glass_Material_By_Color.png) Radiance Glass Material By Color
+## ![](../../images/icons/Radiance_Glass_Material_By_Color.png) Radiance Glass Material By Color - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Radiance%20Glass%20Material%20By%20Color.py)
 
 ![](../../images/components/Radiance_Glass_Material_By_Color.png)
 

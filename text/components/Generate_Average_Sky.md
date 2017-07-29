@@ -1,4 +1,4 @@
-## ![](../../images/icons/Generate_Average_Sky.png) Generate Average Sky
+## ![](../../images/icons/Generate_Average_Sky.png) Generate Average Sky - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Generate%20Average%20Sky.py)
 
 ![](../../images/components/Generate_Average_Sky.png)
 

@@ -10,6 +10,7 @@
 * ![IMAGE](../../images/icons/Lookup_EnergyPlus_Folder.png) [Lookup_EnergyPlus_Folder](../components/Lookup_EnergyPlus_Folder.md)
 * ![IMAGE](../../images/icons/Read_EP_Result.png) [Read_EP_Result](../components/Read_EP_Result.md)
 * ![IMAGE](../../images/icons/Read_EP_Surface_Result.png) [Read_EP_Surface_Result](../components/Read_EP_Surface_Result.md)
+* ![IMAGE](../../images/icons/Read_Result_Dictionary.png) [Read_Result_Dictionary](../components/Read_Result_Dictionary.md)
 * ![IMAGE](../../images/icons/Color_Surfaces_by_EP_Result.png) [Color_Surfaces_by_EP_Result](../components/Color_Surfaces_by_EP_Result.md)
 * ![IMAGE](../../images/icons/Color_Zones_by_EP_Result.png) [Color_Zones_by_EP_Result](../components/Color_Zones_by_EP_Result.md)
 * ![IMAGE](../../images/icons/Construct_Energy_Balance.png) [Construct_Energy_Balance](../components/Construct_Energy_Balance.md)

@@ -1,4 +1,4 @@
-## ![](../../images/icons/SplitBuildingMass.png) SplitBuildingMass
+## ![](../../images/icons/SplitBuildingMass.png) SplitBuildingMass - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_SplitBuildingMass.py)
 
 ![](../../images/components/SplitBuildingMass.png)
 

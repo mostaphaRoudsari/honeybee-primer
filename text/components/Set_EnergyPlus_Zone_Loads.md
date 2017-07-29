@@ -1,4 +1,4 @@
-## ![](../../images/icons/Set_EnergyPlus_Zone_Loads.png) Set EnergyPlus Zone Loads
+## ![](../../images/icons/Set_EnergyPlus_Zone_Loads.png) Set EnergyPlus Zone Loads - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Set%20EnergyPlus%20Zone%20Loads.py)
 
 ![](../../images/components/Set_EnergyPlus_Zone_Loads.png)
 

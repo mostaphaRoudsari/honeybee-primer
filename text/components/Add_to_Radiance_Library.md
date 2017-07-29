@@ -1,4 +1,4 @@
-## ![](../../images/icons/Add_to_Radiance_Library.png) Add to Radiance Library
+## ![](../../images/icons/Add_to_Radiance_Library.png) Add to Radiance Library - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Add%20to%20Radiance%20Library.py)
 
 ![](../../images/components/Add_to_Radiance_Library.png)
 

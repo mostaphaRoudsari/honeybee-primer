@@ -1,4 +1,4 @@
-## ![](../../images/icons/Get_EnergyPlus_Schedules.png) Get EnergyPlus Schedules
+## ![](../../images/icons/Get_EnergyPlus_Schedules.png) Get EnergyPlus Schedules - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Get%20EnergyPlus%20Schedules.py)
 
 ![](../../images/components/Get_EnergyPlus_Schedules.png)
 

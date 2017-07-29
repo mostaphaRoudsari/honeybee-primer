@@ -1,4 +1,4 @@
-## ![](../../images/icons/Convert_HDR_to_GIF.png) Convert HDR to GIF
+## ![](../../images/icons/Convert_HDR_to_GIF.png) Convert HDR to GIF - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Convert%20HDR%20to%20GIF.py)
 
 ![](../../images/components/Convert_HDR_to_GIF.png)
 

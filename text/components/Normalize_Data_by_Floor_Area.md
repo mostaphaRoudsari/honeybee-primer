@@ -1,4 +1,4 @@
-## ![](../../images/icons/Normalize_Data_by_Floor_Area.png) Normalize Data by Floor Area
+## ![](../../images/icons/Normalize_Data_by_Floor_Area.png) Normalize Data by Floor Area - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Normalize%20Data%20by%20Floor%20Area.py)
 
 ![](../../images/components/Normalize_Data_by_Floor_Area.png)
 

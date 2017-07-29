@@ -1,4 +1,4 @@
-## ![](../../images/icons/Search_EP_Schedule_Library.png) Search EP Schedule Library
+## ![](../../images/icons/Search_EP_Schedule_Library.png) Search EP Schedule Library - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Search%20EP%20Schedule%20Library.py)
 
 ![](../../images/components/Search_EP_Schedule_Library.png)
 

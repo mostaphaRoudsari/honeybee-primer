@@ -1,4 +1,4 @@
-## ![](../../images/icons/Color_Zones_by_EP_Result.png) Color Zones by EP Result
+## ![](../../images/icons/Color_Zones_by_EP_Result.png) Color Zones by EP Result - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Color%20Zones%20by%20EP%20Result.py)
 
 ![](../../images/components/Color_Zones_by_EP_Result.png)
 

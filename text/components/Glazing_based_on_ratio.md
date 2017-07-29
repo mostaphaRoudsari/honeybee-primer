@@ -1,4 +1,4 @@
-## ![](../../images/icons/Glazing_based_on_ratio.png) Glazing based on ratio
+## ![](../../images/icons/Glazing_based_on_ratio.png) Glazing based on ratio - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Glazing%20based%20on%20ratio.py)
 
 ![](../../images/components/Glazing_based_on_ratio.png)
 

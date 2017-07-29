@@ -1,4 +1,4 @@
-## ![](../../images/icons/Glazing_Parameters_List.png) Glazing Parameters List
+## ![](../../images/icons/Glazing_Parameters_List.png) Glazing Parameters List - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Glazing%20Parameters%20List.py)
 
 ![](../../images/components/Glazing_Parameters_List.png)
 

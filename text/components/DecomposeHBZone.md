@@ -1,4 +1,4 @@
-## ![](../../images/icons/DecomposeHBZone.png) DecomposeHBZone
+## ![](../../images/icons/DecomposeHBZone.png) DecomposeHBZone - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_DecomposeHBZone.py)
 
 ![](../../images/components/DecomposeHBZone.png)
 

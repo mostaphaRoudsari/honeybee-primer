@@ -1,4 +1,4 @@
-## ![](../../images/icons/Radiance_Opaque_Material.png) Radiance Opaque Material
+## ![](../../images/icons/Radiance_Opaque_Material.png) Radiance Opaque Material - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Radiance%20Opaque%20Material.py)
 
 ![](../../images/components/Radiance_Opaque_Material.png)
 

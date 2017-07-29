@@ -1,4 +1,4 @@
-## ![](../../images/icons/Decompose_EP_Construction.png) Decompose EP Construction
+## ![](../../images/icons/Decompose_EP_Construction.png) Decompose EP Construction - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Decompose%20EP%20Construction.py)
 
 ![](../../images/components/Decompose_EP_Construction.png)
 

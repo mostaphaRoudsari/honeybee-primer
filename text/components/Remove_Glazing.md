@@ -1,4 +1,4 @@
-## ![](../../images/icons/Remove_Glazing.png) Remove Glazing
+## ![](../../images/icons/Remove_Glazing.png) Remove Glazing - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Remove%20Glazing.py)
 
 ![](../../images/components/Remove_Glazing.png)
 

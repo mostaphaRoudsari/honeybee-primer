@@ -1,4 +1,4 @@
-## ![](../../images/icons/Get_EnergyPlus_Loads.png) Get EnergyPlus Loads
+## ![](../../images/icons/Get_EnergyPlus_Loads.png) Get EnergyPlus Loads - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Get%20EnergyPlus%20Loads.py)
 
 ![](../../images/components/Get_EnergyPlus_Loads.png)
 

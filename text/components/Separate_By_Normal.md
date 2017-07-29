@@ -1,4 +1,4 @@
-## ![](../../images/icons/Separate_By_Normal.png) Separate By Normal
+## ![](../../images/icons/Separate_By_Normal.png) Separate By Normal - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Separate%20By%20Normal.py)
 
 ![](../../images/components/Separate_By_Normal.png)
 

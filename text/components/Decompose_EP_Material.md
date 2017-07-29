@@ -1,4 +1,4 @@
-## ![](../../images/icons/Decompose_EP_Material.png) Decompose EP Material
+## ![](../../images/icons/Decompose_EP_Material.png) Decompose EP Material - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Decompose%20EP%20Material.py)
 
 ![](../../images/components/Decompose_EP_Material.png)
 

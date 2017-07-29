@@ -1,4 +1,4 @@
-## ![](../../images/icons/orientHBGlz.png) orientHBGlz
+## ![](../../images/icons/orientHBGlz.png) orientHBGlz - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_orientHBGlz.py)
 
 ![](../../images/components/orientHBGlz.png)
 

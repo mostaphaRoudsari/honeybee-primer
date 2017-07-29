@@ -1,4 +1,4 @@
-## ![](../../images/icons/Import_THERM_XML.png) Import THERM XML
+## ![](../../images/icons/Import_THERM_XML.png) Import THERM XML - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Import%20THERM%20XML.py)
 
 ![](../../images/components/Import_THERM_XML.png)
 

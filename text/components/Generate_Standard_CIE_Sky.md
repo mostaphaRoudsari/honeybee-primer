@@ -1,4 +1,4 @@
-## ![](../../images/icons/Generate_Standard_CIE_Sky.png) Generate Standard CIE Sky
+## ![](../../images/icons/Generate_Standard_CIE_Sky.png) Generate Standard CIE Sky - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Generate%20Standard%20CIE%20Sky.py)
 
 ![](../../images/components/Generate_Standard_CIE_Sky.png)
 
