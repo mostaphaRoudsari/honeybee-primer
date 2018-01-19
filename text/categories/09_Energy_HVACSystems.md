@@ -4,3 +4,4 @@
 * ![IMAGE](../../images/icons/HVAC_Air_Details.png) [HVAC_Air_Details](../components/HVAC_Air_Details.md)
 * ![IMAGE](../../images/icons/HVAC_Cooling_Details.png) [HVAC_Cooling_Details](../components/HVAC_Cooling_Details.md)
 * ![IMAGE](../../images/icons/HVAC_Heating_Details.png) [HVAC_Heating_Details](../components/HVAC_Heating_Details.md)
+* ![IMAGE](../../images/icons/Load_OpenStudio_Measure.png) [Load_OpenStudio_Measure](../components/Load_OpenStudio_Measure.md)

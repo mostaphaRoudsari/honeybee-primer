@@ -39,8 +39,8 @@ A list of breps for each zone. This is essentially the same as the _HBZones inpu
 A list of colors that correspond to the colors of each zone.  These colors include alpha values to make them slightly transparent.  Connecting the previous output and this output to a Grasshopper 'Preview' component will thus allow you to see the zones colored transparently.
 * ##### zoneValues
 The values of the input data that are being used to color the zones.
-* ##### floorNormZoneData
-The input data normalized by the floor area of it corresponding zone.
+* ##### relevantZoneData
+The input data used to color the zones.
 
 
 [Check Hydra Example Files for Color Zones by EP Result](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Color Zones by EP Result)

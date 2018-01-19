@@ -35,6 +35,12 @@ A single thermBC that represents the exterior side of the glazing system.  This 
 A list of properties for the interior boundary condition in the following order: Name, temperature, film coefficient.  These can be used to create a boundary condition for the 'Frame.'
 * ##### outdoorProperties
 A list of properties for the exterior boundary condition in the following order: Name, temperature, film coefficient.  These can be used to create a boundary condition that includes the frame of the window.
+* ##### cogUValue
+A value representing the "center of glass" U-value for the imported WINDOW glazing construction in SI units (W/m2-K).  This output can be used in conjunction with the "Honeybee_Assembly Uvalue" component to calculate the full U-value of a window assembly.
+* ##### SHGC
+The solar heat gain coefficient of the WINDOW glazing construction.
+* ##### VT
+The visible transmittance of the WINDOW glazing construction.
 
 
 [Check Hydra Example Files for Import WINDOW Glz System](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Import WINDOW Glz System)

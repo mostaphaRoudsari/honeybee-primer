@@ -47,8 +47,6 @@ The relative humidity of each zone (%).
 The total volume of air flowing into the room through both the windows and infiltration (m3/s).  This is voulme of air is at standard density (20 C and adjusted for the elevation above sea level of the weather file).
 * ##### airHeatGainRate
 The total heat transfer rate to the air from lighting, equipment(appliances/pulg loads), people, the surfaces of the zone, and gains through the heating system.  This output is useful for the estimation of air stratification in the Comfort Analysis workflow.
-* ##### otherZoneData
-Other zone data that is in the result file (in no particular order). Note that this data cannot be normalized by floor area as the component does not know if it can be normalized.
 
 
 [Check Hydra Example Files for Read EP Result](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Read EP Result)

@@ -39,8 +39,8 @@ A list of breps for each zone surface. Connecting this output and the following 
 A list of colors that correspond to the colors of each zone surface.  These colors include alpha values to make them slightly transparent.  Connecting the previous output and this output to a Grasshopper 'Preview' component will thus allow you to see the surfaces colored transparently.
 * ##### srfValues
 The values of the input data that are being used to color the surfaces.
-* ##### normalizedSrfData
-The input data normalized by the areas of each surface.
+* ##### relevantSrfData
+The input data used to color the zones.
 
 
 [Check Hydra Example Files for Color Surfaces by EP Result](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Color Surfaces by EP Result)

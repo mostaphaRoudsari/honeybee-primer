@@ -21,6 +21,8 @@ Optional HBContext geometry from the "Honeybee_EP Context Surfaces." component o
 Connect the output HBGeneratorSystem from the Honeybee_generationsystem component here to model EnergyPlus Photovoltaic and Wind generator systems in this simulation.
 * ##### simulationOutputs [Optional]
 A list of the outputs that you would like EnergyPlus to write into the result CSV file.  This can be any set of any outputs that you would like from EnergyPlus, writen as a list of text that will be written into the IDF.  It is recommended that, if you are not expereinced with writing EnergyPlus outputs, you should use the "Honeybee_Write EP Result Parameters" component to request certain types of common outputs.  If no value is input here, this component will automatically request outputs of heating, cooling, lighting, and equipment energy use.
+* ##### additionalStrings [Optional]
+THIS OPTION IS JUST FOR ADVANCED USERS OF ENERGYPLUS.  You can input additional text strings here that you would like written into the IDF.  The strings input here should be complete EnergyPlus objects that are correctly formatted.  You can input as many objects as you like in a list.  This input can be used to write objects into the IDF that are not currently supported by Honeybee.
 * ##### writeIdf [Required]
 Set to "True" to have the component take your HBZones and other inputs and write them into an IDF file.  The file path of the resulting file will appear in the idfFileAddress output of this component.  Note that only setting this to "True" and not setting the output below to "True" will not automatically run the IDF through EnergyPlus for you.
 * ##### runEnergyPlus [Optional]
@@ -29,20 +31,22 @@ Set to "True" to have the component run your IDF through EnergyPlus once it has 
 An optional working directory to a folder on your system, into which your IDF and result files will be written.  NOTE THAT DIRECTORIES INPUT HERE SHOULD NOT HAVE ANY SPACES OR UNDERSCORES IN THE FILE PATH.
 * ##### idfFileName [Default]
 Optional text which will be used to name your IDF and result files.  Change this to aviod over-writing results of previous energy simulations.
-* ##### meshSettings [Optional]
-Optional mesh settings for your geometry from any one of the native Grasshopper mesh setting components.  These will be used to change the meshing of curved surfaces before they are run through EnergyPlus (note that meshing of curved surfaces is done since Energyplus is not able to calculate heat flow through non-planar surfaces).  Default Grasshopper meshing is used if nothing is input here but you may want to decrease your calculation time by changing it to Coarse or increase your curvature definition (and calculation time) by making it finer.
-* ##### additionalStrings [Optional]
-THIS OPTION IS JUST FOR ADVANCED USERS OF ENERGYPLUS.  You can input additional text strings here that you would like written into the IDF.  The strings input here should be complete EnergyPlus objects that are correctly formatted.  You can input as many objects as you like in a list.  This input can be used to write objects into the IDF that are not currently supported by Honeybee.
 
 #### Outputs
-* ##### report
+* ##### readMe!
 Check here to see a report of the EnergyPlus run, including errors.
 * ##### idfFileAddress
 The file path of the IDF file that has been generated on your machine.
-* ##### htmlReport
-The Html file path of the Building Utility Performance Summar. You can review the report by copying the file path, and open it in your web browser.
 * ##### resultFileAddress
 The file path of the CSV result file that has been generated on your machine.  This only happens when you set "runEnergyPlus_" to "True."
+* ##### eioFileAddress
+The file path of the EIO file that has been generated on your machine.  This file contains information about the sizes of all HVAC equipment from the simulation.
+* ##### rddFileAddress
+Script variable runEnergySimulation
+* ##### htmlReport
+Script variable runEnergySimulation
+* ##### studyFolder
+The directory in which the simulation has been run.  Connect this to the 'Honeybee_Lookup EnergyPlus' folder to bring many of the files in this directory into Grasshopper.
 
 
 [Check Hydra Example Files for  Run Energy Simulation](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_ Run Energy Simulation)

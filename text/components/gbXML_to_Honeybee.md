@@ -2,7 +2,7 @@
 
 ![](../../images/components/gbXML_to_Honeybee.png)
 
-Import gbXML files as Honeybee zones. This component uses OpenStudio libraries to import the file and at this point the component imports geometry and constrcuctions(if available). Loads, schedules, and eventually systems can be added to the component eventually. You also need to solve adjacencies after importing the zones. - 
+Import gbXML files as Honeybee zones. This component uses OpenStudio libraries to import the file and at this point the component imports geometry and constrcuctions(if available). Loads and schedules may  be added to the component eventually. You also need to solve adjacencies after importing the zones. - 
 
 #### Inputs
 * ##### filepath [Required]

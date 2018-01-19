@@ -8,6 +8,7 @@
 * ![IMAGE](../../images/icons/DSParameters.png) [DSParameters](../components/DSParameters.md)
 * ![IMAGE](../../images/icons/RADParameters.png) [RADParameters](../components/RADParameters.md)
 * ![IMAGE](../../images/icons/Advanced_Dynamic_Shading_Recipe.png) [Advanced_Dynamic_Shading_Recipe](../components/Advanced_Dynamic_Shading_Recipe.md)
+* ![IMAGE](../../images/icons/Ambient_Resolution.png) [Ambient_Resolution](../components/Ambient_Resolution.md)
 * ![IMAGE](../../images/icons/Conceptual_Dynamic_Shading_Recipe.png) [Conceptual_Dynamic_Shading_Recipe](../components/Conceptual_Dynamic_Shading_Recipe.md)
 * ![IMAGE](../../images/icons/Daysim_Glare_Control_Recipe.png) [Daysim_Glare_Control_Recipe](../components/Daysim_Glare_Control_Recipe.md)
 * ![IMAGE](../../images/icons/Daysim_Shading_State.png) [Daysim_Shading_State](../components/Daysim_Shading_State.md)

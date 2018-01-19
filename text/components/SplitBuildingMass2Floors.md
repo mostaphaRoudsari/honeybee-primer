@@ -16,7 +16,7 @@ Script input _runIt.
 * ##### readMe!
 ...
 * ##### splitBldgFloors
-A series of breps that correspond to inputted floor heights. These can be inserted into the Honeybee_SplitBuildingFloor2ThermalZones component to further split the floors into thermal zones for energy simulation. 
+A series of breps that correspond to inputted floor heights. These can be inserted into the Honeybee_SplitBuildingFloor2ThermalZones component to further split the floors into thermal zones for energy simulation.
 
 
 [Check Hydra Example Files for SplitBuildingMass2Floors](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_SplitBuildingMass2Floors)

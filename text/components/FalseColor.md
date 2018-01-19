@@ -14,9 +14,9 @@ Conversion factor for the results. Default is 179.
 * ##### legendMax [Optional]
 Maximum bound for the legend
 * ##### contourLines [Optional]
-Set to True ro render the image with colored lines
+Set to True ro render the image with colored contour lines.
 * ##### contourBands [Optional]
-Script variable FalseColor
+Set to True ro render the image with solid-colored contour regions.
 * ##### numOfSegments [Optional]
 An interger representing the number of steps between the high and low boundary of the legend. Default value is set to 10.
 * ##### legendPosition [Optional]

@@ -12,13 +12,15 @@ An .epw file path on your system as a text string.
 * ##### analysisPeriod [Default]
 An optional analysis period from the Ladybug_Analysis Period component.  If no Analysis period is given, the energy simulation will be run for the enitre year.
 * ##### energySimPar [Default]
-Optional Energy Simulation Parameters from the "Honeybee_Energy Simulation Par" component.  If no value is connected here, the simulation will run with the following parameters: 1 - 6 timeSteps per hour 2 - A shadow calculation that averages over multiple days (as opposed to running it for each timeStep) 3 - A shadow calculation frequency of 30 (meaning that the shadow calulation is averaged over every 30 days) 4 - A maximum of 3000 points used in the shadow calculation. (This may need to be higher if you have a lot of detailed context geometry) 5 - An colar energy calculation that includes both interior and exterior light reflections. 6 - A simulation including a zone sizing calculation, a system sizing calculation, a plat sizing calculation, and a full run of the energy use ofver the analysis period.  The simulation is not run for the sizing period by default. 7 - A system sizing period that runs from the extreme periods of the weather file and not a ddy file. 8 - City terrian.
+Optional Energy Simulation Parameters from the "Honeybee_Energy Simulation Par" component.  If no value is connected here, the simulation will run with the following parameters: 1 - 6 timeSteps per hour 2 - A shadow calculation that averages over multiple days (as opposed to running it for each timeStep) 3 - A shadow calculation frequency of 30 (meaning that the shadow calulation is averaged over every 30 days) 4 - A maximum of 3000 points used in the shadow calculation. (This may need to be higher if you have a lot of detailed context geometry) 5 - A solar energy calculation that includes both interior and exterior light reflections. 6 - A simulation including a zone sizing calculation, a system sizing calculation, a plat sizing calculation, and a full run of the energy use ofver the analysis period.  The simulation is not run for the sizing period by default. 7 - A system sizing period that runs from the extreme periods of the weather file and not a ddy file. 8 - City terrian.
 * ##### HBZones [Required]
 The HBZones that you wish to write into an OSM file and/or run through EnergyPlus.  These can be from any of the components that output HBZones.
 * ##### HBContext [Optional]
 Optional HBContext geometry from the "Honeybee_EP Context Surfaces." component.
 * ##### simulationOutputs [Optional]
 A list of the outputs that you would like EnergyPlus to write into the result CSV file.  This can be any set of any outputs that you would like from EnergyPlus, writen as a list of text that will be written into the IDF.  It is recommended that, if you are not expereinced with writing EnergyPlus outputs, you should use the "Honeybee_Write EP Result Parameters" component to request certain types of common outputs. 
+* ##### OSMeasures [Optional]
+Script variable exportToOpenStudio
 * ##### additionalStrings [Optional]
 THIS OPTION IS JUST FOR ADVANCED USERS OF ENERGYPLUS.  You can input additional text strings here that you would like written into the IDF.  The strings input here should be complete EnergyPlus objects that are correctly formatted.  You can input as many objects as you like in a list.  This input can be used to write objects into the IDF that are not currently supported by Honeybee.
 * ##### writeOSM [Required]
@@ -46,7 +48,7 @@ The file path of the EIO file that has been generated on your machine.  This fil
 * ##### rddFileAddress
 The file path of the Result Data Dictionary (.rdd) file that is generated after running the file through EnergyPlus.  This file contains all possible outputs that can be requested from the EnergyPlus model.  Use the "Honeybee_Read Result Dictionary" to see what outputs can be requested.
 * ##### htmlReport
-Script variable exportToOpenStudio
+The file path to the HTML report that was generated after running the file through EnergyPlus.  Open this in a web browser for an overview of the energy model results.
 * ##### studyFolder
 The directory in which the simulation has been run.  Connect this to the 'Honeybee_Lookup EnergyPlus' folder to bring many of the files in this directory into Grasshopper.
 * ##### model

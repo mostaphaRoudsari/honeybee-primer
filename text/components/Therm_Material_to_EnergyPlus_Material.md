@@ -17,8 +17,10 @@ A number representing the density of the material in kg/m3.  This is essentially
 A number representing the specific heat capacity of the material in J/kg-K.  This is essentially the number of joules needed to raise one kg of the material by 1 degree Kelvin.
 
 #### Outputs
-* ##### EPMaterial
+* ##### EPMaterialStr
 An opaque material that can be plugged into the "Honeybee_EnergyPlus Construction" component.
+* ##### matName
+The name of the generated EP Material.
 
 
 [Check Hydra Example Files for Therm Material to EnergyPlus Material](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Therm Material to EnergyPlus Material)

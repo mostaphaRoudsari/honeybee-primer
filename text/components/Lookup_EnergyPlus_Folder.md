@@ -16,23 +16,23 @@ Refresh
 * ##### readMe!
 The execution information, as output and error streams
 * ##### idfFiles
-Script variable Python
+The file path of the Input Data File (idf) file that has been generated on your machine.
 * ##### osmFiles
-Script variable LookupFolder_EnergyPlus
+The file path of the OpenStudio Model (osm) file that has been generated on your machine.
 * ##### resultFileAddress
-Script variable Python
+The file path of the Comma-Separated Values file (csv)  result file that has been generated on your machine.
 * ##### scheduleCsvFiles
-Script variable Python
+The file paths to any CSV schedules in the study folder.
 * ##### rddFiles
-Script variable Python
+The file path of the Report Data Dictionary (rdd) file that has been generated on your machine.
 * ##### errFiles
-Script variable Python
+The file path of the Error (err) file that has been generated on your machine.
 * ##### eioFiles
-Script variable Python
+The file path of the EnergyPlus Invariant Output (eio) file that has been generated on your machine.
 * ##### esoFiles
-Script variable Python
+The file path of the EnergyPlus Simulation Output (eso) result file that has been generated on your machine.
 * ##### sqlFiles
-Script variable Python
+The file path of the Structured Query Language (sql) result file that has been generated on your machine.
 
 
 [Check Hydra Example Files for Lookup EnergyPlus Folder](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Lookup EnergyPlus Folder)

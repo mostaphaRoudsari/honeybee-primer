@@ -8,7 +8,7 @@ Use this component to create a custom window material that has no mass, which ca
 * ##### name [Required]
 A text name for your NoMass Window Material.
 * ##### U_Value [Required]
-A number representing the conductivity of the window in W/m-K. This is the rated (NFRC) value for U-factor under winter heating conditions. As a result, the U-Value input here should include the air films for a vertically-mounted product.
+A number representing the U-value of the window in W/m2-K. This is the rated (NFRC) U-value under winter heating conditions. As a result, the U-Value input here should include the air films for a vertically-mounted product.
 * ##### SHGC [Required]
 A number between 0 and 1 that represents the solar heat gain coefficient (SHGC) of the window. The solar heat gain coeffieceint is essentially the fraction of solar radiation falling on the window that makes it through the glass (at normal incidence).  This number is usually very close to the visible transmittance (VT) for glass without low-e coatings but can be might lower for glass with low-e coatings.
 * ##### VT [Required]

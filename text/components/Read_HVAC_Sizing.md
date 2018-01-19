@@ -27,6 +27,10 @@ Values denoting the size of various central HVAC system elemts (like the primary
 Text describing the meaning of the componentSizVals below.
 * ##### componentSizVals
 Values denoting the size of various zone HVAC components (like zone terminal sizes, heating/cooling coil sizes, lengths of chilled beams, etc.).
+* ##### coolDesignDayLoad
+The sum of the load that must be reomved from the space at every timestep of the cooling design day.
+* ##### heatDesignDayLoad
+The sum of the load that must be added to the space at every timestep of the heating design day.
 
 
 [Check Hydra Example Files for Read HVAC Sizing](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_Read HVAC Sizing)
