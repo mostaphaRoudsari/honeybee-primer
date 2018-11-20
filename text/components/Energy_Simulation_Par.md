@@ -6,7 +6,7 @@ EnergyPlus Shadow Parameters -
 
 #### Inputs
 * ##### timestep [Optional]
-A number between 1 and 60 that represents the number of timesteps per hour at which the simulation will be run.  The default is set to 6 timesteps per hour, which means that the energy balance calculation is run every 10 minutes of the year.
+It is the number of times simulation will be performed in an hour. - You can choose any number from 1,2,3,4,5,6,10,12,15,20,30, and 60 as the timestep. Generally speaking, the shorter the time step, the longer it takes to finish the simulation. The biggest timestep is 60 minutes. That will mean that the simulation will for every one hour for the year. - It is advisable to use the timestep of 60 minutes only in a case when no HVAC system is envisaged, accuracy not a primary concern, and simulation run time is critical. - In summary, shorter timesteps improve how calculation models for surface temperature and zone air temperature are coupled together and therefore, shorter timesteps are recommended. On the other side, longer timesteps introduce more lag in temperature distribution and as a result, offers a less dynamic behavior. - The default is set to 6 timesteps per hour, which means that the energy balance calculation is run every 10 minutes of the year. This is a recommended default for simulations with HVAC. - Other suggested defaults are 4 for non-HVAC simulations. Simulating green roofs require more timesteps per hour.
 * ##### shadowCalcPar [Optional]
 An optional set of shadow calculation parameters from the "Honeybee_ShadowPar" component.
 * ##### solarDistribution [Optional]

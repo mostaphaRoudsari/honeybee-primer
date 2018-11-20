@@ -10,7 +10,7 @@ The HBZones out of any of the HB components that generate or alter zones.  Note 
 * ##### gridSize [Optional]
 A number in Rhino model units to make each cell of the view factor mesh.
 * ##### distFromFloorOrSrf [Optional]
-A number in Rhino model units to set the distance of the view factor mesh from the ground.
+A number in Rhino model units to set the distance of the view factor mesh from the floor of the zones.  Alternatively, this can be a surface or list of surfaces on which you are interested in studying thermal comfort.  Lastly, it can be a list of points at which you want to evaluate microclimate conditions.
 * ##### additionalShading [Optional]
 Add additional shading breps or meshes to account for geometry that is not a part of the zone but can still block direct sunlight to occupants.  Examples include outdoor context shading and indoor furniture.
 * ##### addShdTransmiss [Optional]

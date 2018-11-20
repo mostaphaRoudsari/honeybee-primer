@@ -5,3 +5,6 @@
 * ![IMAGE](../../images/icons/HVAC_Cooling_Details.png) [HVAC_Cooling_Details](../components/HVAC_Cooling_Details.md)
 * ![IMAGE](../../images/icons/HVAC_Heating_Details.png) [HVAC_Heating_Details](../components/HVAC_Heating_Details.md)
 * ![IMAGE](../../images/icons/Load_OpenStudio_Measure.png) [Load_OpenStudio_Measure](../components/Load_OpenStudio_Measure.md)
+* ![IMAGE](../../images/icons/Generator_PV.png) [Generator_PV](../components/Generator_PV.md)
+* ![IMAGE](../../images/icons/generationsystem.png) [generationsystem](../components/generationsystem.md)
+* ![IMAGE](../../images/icons/simple_Inverter.png) [simple_Inverter](../components/simple_Inverter.md)

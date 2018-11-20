@@ -2,6 +2,7 @@
 * ![IMAGE](../../images/icons/Glare_Analysis.png) [Glare_Analysis](../components/Glare_Analysis.md)
 * ![IMAGE](../../images/icons/Run_Daylight_Simulation.png) [Run_Daylight_Simulation](../components/Run_Daylight_Simulation.md)
 * ![IMAGE](../../images/icons/Import_rad.png) [Import_rad](../components/Import_rad.md)
+* ![IMAGE](../../images/icons/ReadAnnualResultsIII.png) [ReadAnnualResultsIII](../components/ReadAnnualResultsIII.md)
 * ![IMAGE](../../images/icons/Read_Annual_Result_I.png) [Read_Annual_Result_I](../components/Read_Annual_Result_I.md)
 * ![IMAGE](../../images/icons/Read_Annual_Result_II.png) [Read_Annual_Result_II](../components/Read_Annual_Result_II.md)
 * ![IMAGE](../../images/icons/Read_RAD_Result.png) [Read_RAD_Result](../components/Read_RAD_Result.md)

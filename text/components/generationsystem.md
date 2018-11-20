@@ -7,8 +7,6 @@ Use this component to create a Honeybee generator system. -
 #### Inputs
 * ##### GeneratorSystemName [Required]
 The name of this Honeybee generation system please make it unique!
-* ##### MaintenanceCost [Required]
-The annual cost of maintaining this Honeybee generation system in US dollars (Other currencies will be available in the future)
 * ##### PVHBSurfaces [Optional]
 The Honeybee/context surfaces that contain PV generators to be included in this generation system
 * ##### HBGenerationObjects [Optional]

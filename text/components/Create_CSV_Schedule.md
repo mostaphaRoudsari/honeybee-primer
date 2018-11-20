@@ -11,8 +11,6 @@ The values to be written into the .csv schedule.
 Text for the units of the input values above.  The default is "Dimensionless" for a fractional schedule.  Possible inputs include "Dimensionless", "Temperature", "DeltaTemperature", "PrecipitationRate", "Angle", "ConvectionCoefficient", "ActivityLevel", "Velocity", "Capacity", "Power", "Availability", "Percent", "Control", and "Mode".
 * ##### analysisPeriod [Optional]
 If your input units do not represent a full year, use this input to specify the period of the year that the schedule applies to.
-* ##### timeStep [Optional]
-If your connected _values do not represent a value for each hour (ie. one value for every half-hour), input an interger here to specify the timestep.  Inputting 2 means that every 2 values indicate an hour (each value indicates a half-hour), etc.
 * ##### scheduleName [Required]
 Input a name for your schedule here.  The default is "unnamedSchedule".
 * ##### writeFile [Required]

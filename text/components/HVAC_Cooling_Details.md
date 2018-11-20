@@ -13,10 +13,12 @@ A number (typically greater than 1) that sets the reference coefficient of perfo
 A number representing the temperature of the water leaving the chiller in degrees Celsius.  This input does not have an effect on direct expansion cooling systems.  If left blank, the default temperature is usually 6.67 degrees Celsius.
 * ##### pumpMotorEfficiency [Optional]
 A number between 0 and 1 that represents the motor efficiency of the chilled water pump.  This input does not have an effect on direct expansion cooling systems.  If left blank, the defualt efficiency is usally 0.9.
+* ##### coolingHardSize [Optional]
+A number in Watts that sets the maximum capacity of the cooling system.  This will override the default, which is to autosize the cooling system based on the design day.
 * ##### centralPlant [Optional]
 Set to "True" to have all instances of this HVAC Type have a single central cooling plant.  If set to False or left blank, each branch of a HBZone data tree that is plugged into this component will have a separate cooling plant.
 * ##### heatRejectionType [Optional]
-An integer that represents the type of heat rejection used by the cooling system.  This input does not have an effect on direct expansion cooling systems.  If left blank, the defualt is usally 0 = water cooled.  Choose from the following options: 0 = Water Cooled - The chiller (or VRF heat pumps) will be cooled using a condenser water loop with cooling tower and will use a higher default COP. 1 = Air Cooled - The chiller (or VRF heat pumps) will reject heat directly to the air and will have a lower default COP.
+An integer that represents the type of heat rejection used by the cooling system.  This input does not have an effect on direct expansion cooling systems.  If left blank, the defualt is usally 0 = water cooled (the only exception is VRFs).  Choose from the following options: -1 = GroundSourced - The chiller (or VRF heat pumps) will reject AND absorb heat to/from the ground.  This effectively turns the boiler and chiller into a single ground source heat pump with a high COP.  Note that the ground loop temperature will be approximated using district heating/cooling objects and you may want to place an actual ground heat exchanger that is sized to accomodate the heating/cooling system in the OpenStudio interface. 0 = Water Cooled - The chiller (or VRF heat pumps) will be cooled using a condenser water loop with cooling tower and will use a higher default COP. 1 = Air Cooled - The chiller (or VRF heat pumps) will reject heat directly to the air and will have a lower default COP.
 
 #### Outputs
 * ##### coolingDetails

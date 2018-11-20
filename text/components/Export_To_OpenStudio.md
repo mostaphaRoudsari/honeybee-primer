@@ -17,6 +17,8 @@ Optional Energy Simulation Parameters from the "Honeybee_Energy Simulation Par" 
 The HBZones that you wish to write into an OSM file and/or run through EnergyPlus.  These can be from any of the components that output HBZones.
 * ##### HBContext [Optional]
 Optional HBContext geometry from the "Honeybee_EP Context Surfaces." component.
+* ##### HBGenerators [Optional]
+Script variable exportToOpenStudio
 * ##### simulationOutputs [Optional]
 A list of the outputs that you would like EnergyPlus to write into the result CSV file.  This can be any set of any outputs that you would like from EnergyPlus, writen as a list of text that will be written into the IDF.  It is recommended that, if you are not expereinced with writing EnergyPlus outputs, you should use the "Honeybee_Write EP Result Parameters" component to request certain types of common outputs. 
 * ##### OSMeasures [Optional]

@@ -12,4 +12,5 @@
 * ![IMAGE](../../images/icons/Set_EP_Zone_Interior_Construction.png) [Set_EP_Zone_Interior_Construction](../components/Set_EP_Zone_Interior_Construction.md)
 * ![IMAGE](../../images/icons/Set_EP_Zone_Underground_Construction.png) [Set_EP_Zone_Underground_Construction](../components/Set_EP_Zone_Underground_Construction.md)
 * ![IMAGE](../../images/icons/Set_EnergyPlus_Zone_Thresholds.png) [Set_EnergyPlus_Zone_Thresholds](../components/Set_EnergyPlus_Zone_Thresholds.md)
+* ![IMAGE](../../images/icons/Set_Zone_Properties.png) [Set_Zone_Properties](../components/Set_Zone_Properties.md)
 * ![IMAGE](../../images/icons/infORventPerArea_Calculator.png) [infORventPerArea_Calculator](../components/infORventPerArea_Calculator.md)

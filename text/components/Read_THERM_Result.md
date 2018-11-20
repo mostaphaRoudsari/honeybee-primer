@@ -21,14 +21,16 @@ Optional legend parameters from the Ladybug "Legend Parameters" component.
 Script variable Python
 
 #### Outputs
-* ##### readMe!
-...
 * ##### uFactorTags
-Script variable readTHERM
+The names of each of the uFactor tags (including information about projections for each of the tags).
 * ##### uFactors
-Script variable readTHERM
+The U-Factors accross each boundary condition that has been definted with a uFactorTag. This will be in W/m2-K if SIorIP is set to 'True'  or in BTU/h-ft2-F if set to 'False.'
+* ##### uFactorLength
+The lengths of the boundary condition defined by the U-Factor tags.  This will be in mm if SIorIP is set to 'True'  or in inches if set to 'False.'
+* ##### deltaT
+The temperature delta across each of the uFactor tags.
 * ##### meshValues
-The numerical meshValues of the results in either degrees C or W/m2 (depending on the dataYpe_ input of this component).
+The numerical meshValues of the results in either degrees C or W/m2 (depending on the dataType_ input of this component).
 * ##### meshPoints
 The meshPoints of the mesh that THERM has generated.
 * ##### coloredMesh

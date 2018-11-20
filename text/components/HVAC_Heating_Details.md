@@ -13,6 +13,8 @@ A number that sets the reference efficiency of the primary heating component (un
 A number representing the temperature of the water leaving the boiler in degrees Celsius.  This input does not have an effect on direct expansion heat pump systems.  If left blank, the default temperature is usually 82.0 degrees Celsius.
 * ##### pumpMotorEfficiency [Optional]
 A number between 0 and 1 that represents the motor efficiency of the hot water pump.  This input does not have an effect on direct expansion cooling systems.  If left blank, the defualt efficiency is usally 0.9.
+* ##### heatingHardSize [Optional]
+A number in Watts that sets the maximum capacity of the heating system.  This will override the default, which is to autosize the heating system based on the design day.
 * ##### centralPlant [Optional]
 Set to "True" to have all instances of this HVAC Type have a single central heating plant.  If set to False or left blank, each branch of a HBZone data tree that is plugged into this component will have a separate heating plant.
 
