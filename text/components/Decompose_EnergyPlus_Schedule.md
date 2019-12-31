@@ -1,4 +1,4 @@
-## ![](../../images/icons/Decompose_EnergyPlus_Schedule.png) Decompose EnergyPlus Schedule - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Decompose%20EnergyPlus%20Schedule.py)
+## ![](../../images/icons/Decompose_EnergyPlus_Schedule.png) Decompose EnergyPlus Schedule - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Decompose%20EnergyPlus%20Schedule.py)
 
 ![](../../images/components/Decompose_EnergyPlus_Schedule.png)
 

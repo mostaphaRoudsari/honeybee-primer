@@ -1,4 +1,4 @@
-## ![](../../images/icons/Constant_Schedule.png) Constant Schedule - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Constant%20Schedule.py)
+## ![](../../images/icons/Constant_Schedule.png) Constant Schedule - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Constant%20Schedule.py)
 
 ![](../../images/components/Constant_Schedule.png)
 

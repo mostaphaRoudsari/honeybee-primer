@@ -1,4 +1,4 @@
-## ![](../../images/icons/Generate_Zone_Test_Points.png) Generate Zone Test Points - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Generate%20Zone%20Test%20Points.py)
+## ![](../../images/icons/Generate_Zone_Test_Points.png) Generate Zone Test Points - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Generate%20Zone%20Test%20Points.py)
 
 ![](../../images/components/Generate_Zone_Test_Points.png)
 

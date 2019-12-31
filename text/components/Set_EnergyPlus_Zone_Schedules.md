@@ -1,4 +1,4 @@
-## ![](../../images/icons/Set_EnergyPlus_Zone_Schedules.png) Set EnergyPlus Zone Schedules - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Set%20EnergyPlus%20Zone%20Schedules.py)
+## ![](../../images/icons/Set_EnergyPlus_Zone_Schedules.png) Set EnergyPlus Zone Schedules - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Set%20EnergyPlus%20Zone%20Schedules.py)
 
 ![](../../images/components/Set_EnergyPlus_Zone_Schedules.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Add_Internal_Mass_to_Zone.png) Add Internal Mass to Zone - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Add%20Internal%20Mass%20to%20Zone.py)
+## ![](../../images/icons/Add_Internal_Mass_to_Zone.png) Add Internal Mass to Zone - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Add%20Internal%20Mass%20to%20Zone.py)
 
 ![](../../images/components/Add_Internal_Mass_to_Zone.png)
 

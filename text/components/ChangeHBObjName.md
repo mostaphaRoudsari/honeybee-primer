@@ -1,4 +1,4 @@
-## ![](../../images/icons/ChangeHBObjName.png) ChangeHBObjName - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_ChangeHBObjName.py)
+## ![](../../images/icons/ChangeHBObjName.png) ChangeHBObjName - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_ChangeHBObjName.py)
 
 ![](../../images/components/ChangeHBObjName.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Daysim_shading_group_sensors.png) Daysim shading group sensors - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Daysim%20shading%20group%20sensors.py)
+## ![](../../images/icons/Daysim_shading_group_sensors.png) Daysim shading group sensors - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Daysim%20shading%20group%20sensors.py)
 
 ![](../../images/components/Daysim_shading_group_sensors.png)
 

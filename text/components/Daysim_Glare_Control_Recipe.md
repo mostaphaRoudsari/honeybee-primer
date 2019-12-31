@@ -1,4 +1,4 @@
-## ![](../../images/icons/Daysim_Glare_Control_Recipe.png) Daysim Glare Control Recipe - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Daysim%20Glare%20Control%20Recipe.py)
+## ![](../../images/icons/Daysim_Glare_Control_Recipe.png) Daysim Glare Control Recipe - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Daysim%20Glare%20Control%20Recipe.py)
 
 ![](../../images/components/Daysim_Glare_Control_Recipe.png)
 

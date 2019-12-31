@@ -1,4 +1,4 @@
-## ![](../../images/icons/Set_Exposure_for_HDR.png) Set Exposure for HDR - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Set%20Exposure%20for%20HDR.py)
+## ![](../../images/icons/Set_Exposure_for_HDR.png) Set Exposure for HDR - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Set%20Exposure%20for%20HDR.py)
 
 ![](../../images/components/Set_Exposure_for_HDR.png)
 

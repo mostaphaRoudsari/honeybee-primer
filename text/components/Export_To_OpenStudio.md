@@ -1,4 +1,4 @@
-## ![](../../images/icons/Export_To_OpenStudio.png) Export To OpenStudio - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Export%20To%20OpenStudio.py)
+## ![](../../images/icons/Export_To_OpenStudio.png) Export To OpenStudio - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Export%20To%20OpenStudio.py)
 
 ![](../../images/components/Export_To_OpenStudio.png)
 
@@ -15,6 +15,8 @@ An optional analysis period from the Ladybug_Analysis Period component.  If no A
 Optional Energy Simulation Parameters from the "Honeybee_Energy Simulation Par" component.  If no value is connected here, the simulation will run with the following parameters: 1 - 6 timeSteps per hour 2 - A shadow calculation that averages over multiple days (as opposed to running it for each timeStep) 3 - A shadow calculation frequency of 30 (meaning that the shadow calulation is averaged over every 30 days) 4 - A maximum of 3000 points used in the shadow calculation. (This may need to be higher if you have a lot of detailed context geometry) 5 - A solar energy calculation that includes both interior and exterior light reflections. 6 - A simulation including a zone sizing calculation, a system sizing calculation, a plat sizing calculation, and a full run of the energy use ofver the analysis period.  The simulation is not run for the sizing period by default. 7 - A system sizing period that runs from the extreme periods of the weather file and not a ddy file. 8 - City terrian.
 * ##### HBZones [Required]
 The HBZones that you wish to write into an OSM file and/or run through EnergyPlus.  These can be from any of the components that output HBZones.
+* ##### HVACSystem [Optional]
+A customized HVAC system modeled with Ironbug.
 * ##### HBContext [Optional]
 Optional HBContext geometry from the "Honeybee_EP Context Surfaces." component.
 * ##### HBGenerators [Optional]

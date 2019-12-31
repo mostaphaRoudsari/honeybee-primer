@@ -1,4 +1,4 @@
-## ![](../../images/icons/Read_DS_Result_for_a_point.png) Read DS Result for a point - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Read%20DS%20Result%20for%20a%20point.py)
+## ![](../../images/icons/Read_DS_Result_for_a_point.png) Read DS Result for a point - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Read%20DS%20Result%20for%20a%20point.py)
 
 ![](../../images/components/Read_DS_Result_for_a_point.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Ambient_Resolution.png) Ambient Resolution - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Ambient%20Resolution.py)
+## ![](../../images/icons/Ambient_Resolution.png) Ambient Resolution - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Ambient%20Resolution.py)
 
 ![](../../images/components/Ambient_Resolution.png)
 

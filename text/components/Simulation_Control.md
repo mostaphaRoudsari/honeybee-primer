@@ -1,4 +1,4 @@
-## ![](../../images/icons/Simulation_Control.png) Simulation Control - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Simulation%20Control.py)
+## ![](../../images/icons/Simulation_Control.png) Simulation Control - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Simulation%20Control.py)
 
 ![](../../images/components/Simulation_Control.png)
 
@@ -16,9 +16,9 @@ Set to "True" to have EnergyPlus run a simulation for the Sizing periods specifi
 * ##### runSimForRunPeriods [Optional]
 Set to "True" to have EnergyPlus run the simulation for energy use over the entire year of the EPW.  The default is set to "True."
 * ##### maxWarmupDays [Optional]
-The minimum number of warmup days that you want the energyplus simulation to run before recording result values.  The default is set to 6.
+The maximum number of warmup days that you want the energyplus simulation to run before recording result values.  The default is set to 25.
 * ##### minWarmupDays [Optional]
-Script variable simControl
+The minimum number of warmup days that you want the energyplus simulation to run before recording result values.  The default is set to 6.
 
 #### Outputs
 * ##### simControls

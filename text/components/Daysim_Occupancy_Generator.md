@@ -1,4 +1,4 @@
-## ![](../../images/icons/Daysim_Occupancy_Generator.png) Daysim Occupancy Generator - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Daysim%20Occupancy%20Generator.py)
+## ![](../../images/icons/Daysim_Occupancy_Generator.png) Daysim Occupancy Generator - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Daysim%20Occupancy%20Generator.py)
 
 ![](../../images/components/Daysim_Occupancy_Generator.png)
 

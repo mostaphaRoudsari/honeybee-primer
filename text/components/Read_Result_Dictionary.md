@@ -1,4 +1,4 @@
-## ![](../../images/icons/Read_Result_Dictionary.png) Read Result Dictionary - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Read%20Result%20Dictionary.py)
+## ![](../../images/icons/Read_Result_Dictionary.png) Read Result Dictionary - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Read%20Result%20Dictionary.py)
 
 ![](../../images/components/Read_Result_Dictionary.png)
 

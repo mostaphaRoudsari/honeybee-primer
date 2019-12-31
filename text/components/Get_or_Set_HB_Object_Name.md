@@ -1,4 +1,4 @@
-## ![](../../images/icons/Get_or_Set_HB_Object_Name.png) Get or Set HB Object Name - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Get%20or%20Set%20HB%20Object%20Name.py)
+## ![](../../images/icons/Get_or_Set_HB_Object_Name.png) Get or Set HB Object Name - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Get%20or%20Set%20HB%20Object%20Name.py)
 
 ![](../../images/components/Get_or_Set_HB_Object_Name.png)
 

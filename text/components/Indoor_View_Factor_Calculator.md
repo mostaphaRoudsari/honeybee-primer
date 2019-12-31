@@ -1,4 +1,4 @@
-## ![](../../images/icons/Indoor_View_Factor_Calculator.png) Indoor View Factor Calculator - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Indoor%20View%20Factor%20Calculator.py)
+## ![](../../images/icons/Indoor_View_Factor_Calculator.png) Indoor View Factor Calculator - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Indoor%20View%20Factor%20Calculator.py)
 
 ![](../../images/components/Indoor_View_Factor_Calculator.png)
 

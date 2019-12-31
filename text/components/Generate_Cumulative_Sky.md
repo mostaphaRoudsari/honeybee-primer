@@ -1,4 +1,4 @@
-## ![](../../images/icons/Generate_Cumulative_Sky.png) Generate Cumulative Sky - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Generate%20Cumulative%20Sky.py)
+## ![](../../images/icons/Generate_Cumulative_Sky.png) Generate Cumulative Sky - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Generate%20Cumulative%20Sky.py)
 
 ![](../../images/components/Generate_Cumulative_Sky.png)
 

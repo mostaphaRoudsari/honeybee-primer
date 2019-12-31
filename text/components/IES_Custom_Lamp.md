@@ -1,4 +1,4 @@
-## ![](../../images/icons/IES_Custom_Lamp.png) IES Custom Lamp - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_IES%20Custom%20Lamp.py)
+## ![](../../images/icons/IES_Custom_Lamp.png) IES Custom Lamp - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_IES%20Custom%20Lamp.py)
 
 ![](../../images/components/IES_Custom_Lamp.png)
 

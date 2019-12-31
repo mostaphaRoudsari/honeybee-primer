@@ -1,4 +1,4 @@
-## ![](../../images/icons/Set_Loads_And_Schedules.png) Set Loads And Schedules - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Set%20Loads%20And%20Schedules.py)
+## ![](../../images/icons/Set_Loads_And_Schedules.png) Set Loads And Schedules - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Set%20Loads%20And%20Schedules.py)
 
 ![](../../images/components/Set_Loads_And_Schedules.png)
 

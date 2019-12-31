@@ -1,4 +1,4 @@
-## ![](../../images/icons/SplitBuildingMass2Floors.png) SplitBuildingMass2Floors - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_SplitBuildingMass2Floors.py)
+## ![](../../images/icons/SplitBuildingMass2Floors.png) SplitBuildingMass2Floors - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_SplitBuildingMass2Floors.py)
 
 ![](../../images/components/SplitBuildingMass2Floors.png)
 

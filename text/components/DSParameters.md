@@ -1,4 +1,4 @@
-## ![](../../images/icons/DSParameters.png) DSParameters - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_DSParameters.py)
+## ![](../../images/icons/DSParameters.png) DSParameters - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_DSParameters.py)
 
 ![](../../images/components/DSParameters.png)
 

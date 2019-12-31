@@ -1,4 +1,4 @@
-## ![](../../images/icons/Seasonal_Schedule.png) Seasonal Schedule - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Seasonal%20Schedule.py)
+## ![](../../images/icons/Seasonal_Schedule.png) Seasonal Schedule - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Seasonal%20Schedule.py)
 
 ![](../../images/components/Seasonal_Schedule.png)
 

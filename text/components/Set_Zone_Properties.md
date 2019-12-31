@@ -1,4 +1,4 @@
-## ![](../../images/icons/Set_Zone_Properties.png) Set Zone Properties - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Set%20Zone%20Properties.py)
+## ![](../../images/icons/Set_Zone_Properties.png) Set Zone Properties - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Set%20Zone%20Properties.py)
 
 ![](../../images/components/Set_Zone_Properties.png)
 

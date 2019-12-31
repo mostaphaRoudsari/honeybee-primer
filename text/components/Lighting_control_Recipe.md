@@ -1,4 +1,4 @@
-## ![](../../images/icons/Lighting_control_Recipe.png) Lighting control Recipe - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Lighting%20control%20Recipe.py)
+## ![](../../images/icons/Lighting_control_Recipe.png) Lighting control Recipe - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Lighting%20control%20Recipe.py)
 
 ![](../../images/components/Lighting_control_Recipe.png)
 

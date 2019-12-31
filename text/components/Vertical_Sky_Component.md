@@ -1,4 +1,4 @@
-## ![](../../images/icons/Vertical_Sky_Component.png) Vertical Sky Component - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Vertical%20Sky%20Component.py)
+## ![](../../images/icons/Vertical_Sky_Component.png) Vertical Sky Component - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Vertical%20Sky%20Component.py)
 
 ![](../../images/components/Vertical_Sky_Component.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/SplitFloor2ThermalZones.png) SplitFloor2ThermalZones - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_SplitFloor2ThermalZones.py)
+## ![](../../images/icons/SplitFloor2ThermalZones.png) SplitFloor2ThermalZones - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_SplitFloor2ThermalZones.py)
 
 ![](../../images/components/SplitFloor2ThermalZones.png)
 

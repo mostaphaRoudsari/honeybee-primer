@@ -91,7 +91,6 @@
 		* [Glare_Analysis](text/components/Glare_Analysis.md)
 		* [Run_Daylight_Simulation](text/components/Run_Daylight_Simulation.md)
 		* [Import_rad](text/components/Import_rad.md)
-		* [ReadAnnualResultsIII](text/components/ReadAnnualResultsIII.md)
 		* [Read_Annual_Result_I](text/components/Read_Annual_Result_I.md)
 		* [Read_Annual_Result_II](text/components/Read_Annual_Result_II.md)
 		* [Read_RAD_Result](text/components/Read_RAD_Result.md)

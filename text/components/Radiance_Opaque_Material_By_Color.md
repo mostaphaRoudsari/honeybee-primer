@@ -1,4 +1,4 @@
-## ![](../../images/icons/Radiance_Opaque_Material_By_Color.png) Radiance Opaque Material By Color - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Radiance%20Opaque%20Material%20By%20Color.py)
+## ![](../../images/icons/Radiance_Opaque_Material_By_Color.png) Radiance Opaque Material By Color - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Radiance%20Opaque%20Material%20By%20Color.py)
 
 ![](../../images/components/Radiance_Opaque_Material_By_Color.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/infORventPerArea_Calculator.png) infORventPerArea Calculator - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_infORventPerArea%20Calculator.py)
+## ![](../../images/icons/infORventPerArea_Calculator.png) infORventPerArea Calculator - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_infORventPerArea%20Calculator.py)
 
 ![](../../images/components/infORventPerArea_Calculator.png)
 
@@ -17,12 +17,14 @@ A number representing the pressure differential in Pascals (Pa) between indoors/
 #### Outputs
 * ##### readMe!
 Report of the calculations
-* ##### infORventPerArea
-infiltrationRatePerArea or ventilationPerArea in m3/s-m2 (Cubic meters per second per square meter of floor area) that can be plugged into the "Set EnergyPlus Zone Loads" component.
-* ##### allFloors
-The floors of the zones that are used to determine the infORventPerArea.
+* ##### infPerAreaFacade
+infiltrationRatePerArea_Facade in m3/s-m2 (Cubic meters per second per square meter of exterior facade area) that can be plugged into the "Set EnergyPlus Zone Loads" component.
+* ##### ventPerAreaFloor
+ventilationPerArea in m3/s-m2 (Cubic meters per second per square meter of floor area) that can be plugged into the "Set EnergyPlus Zone Loads" component.
 * ##### allExposed
-If _ACHorM3sM2_ is set to "False", the area of the zone that is interpreted as exposed srface area will be output here.
+The geometry of the zone that is interpreted as exposed surface area.
+* ##### allFloors
+The geometry of the zone that is interpreted as floor area.
 
 
 [Check Hydra Example Files for infORventPerArea Calculator](https://hydrashare.github.io/hydra/index.html?keywords=Honeybee_infORventPerArea Calculator)

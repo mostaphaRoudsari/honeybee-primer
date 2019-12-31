@@ -1,4 +1,4 @@
-## ![](../../images/icons/Set_EnergyPlus_Zone_Loads.png) Set EnergyPlus Zone Loads - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Set%20EnergyPlus%20Zone%20Loads.py)
+## ![](../../images/icons/Set_EnergyPlus_Zone_Loads.png) Set EnergyPlus Zone Loads - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Set%20EnergyPlus%20Zone%20Loads.py)
 
 ![](../../images/components/Set_EnergyPlus_Zone_Loads.png)
 
@@ -9,8 +9,8 @@ Use this component to change the occupancy, lighting, equipment, etc. loads for 
 Honeybee zones for which you want to change the loads.
 * ##### equipmentLoadPerArea [Optional]
 The desired equipment load per square meter of floor.  Values here should be in W/m2 (Watts per square meter).  Typical values can range from 2 W/m2 (for just a laptop or two in the zone) to 15 W/m2 for an office filled with computers and appliances.
-* ##### infiltrationRatePerArea [Optional]
-The desired rate of outside air infiltration into the zone per square meter of floor.  Values here should be in m3/s-m2 (Cubic meters per second per square meter of floor).  ASHRAE recommends the following general infiltration rates based on the area of the facade exposed to the outdoors (note that you have to use the "Honeybee_infOrVentPerArea" to convert): 0.0001 (m3/s per m2 facade) - Tight building 0.0003 (m3/s per m2 facade) - Average building 0.0006 (m3/s per m2 facade) - Leaky building
+* ##### infilRatePerArea_Facade [Optional]
+The desired rate of outside air infiltration into the zone per square meter of exterior facade.  Values here should be in m3/s-m2 @4Pa(Cubic meters per second per square meter of exterior facade).  ASHRAE recommends the following general infiltration rates based on the area of the facade exposed to the outdoors: ------------------------------------------------------------ Unit of following reference numbers: m3/s per m2 facade @4Pa ------------------------------------------------------------ 0.000071 - Passive house         (0.1 cfm/sf facade @75Pa) 0.0001 - Tight building               (0.14 cfm/sf facade @75Pa) 0.000285 - ASHRAE 90.1-2013 (0.4 cfm/sf facade @75Pa) 0.0003 - Average building          (0.42 cfm/sf facade @75Pa) 0.0006 - Leaky building             (0.84 cfm/sf facade @75Pa)
 * ##### lightingDensityPerArea [Optional]
 The desired lighting load per square meter of floor.  Values here should be in W/m2 (Watts per square meter).  Typical values can range from 3 W/m2 for efficeint LED bulbs to 15 W/m2 for incandescent heat lamps.
 * ##### numOfPeoplePerArea [Optional]

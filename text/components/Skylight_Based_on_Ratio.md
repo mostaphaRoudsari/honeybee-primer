@@ -1,4 +1,4 @@
-## ![](../../images/icons/Skylight_Based_on_Ratio.png) Skylight Based on Ratio - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Skylight%20Based%20on%20Ratio.py)
+## ![](../../images/icons/Skylight_Based_on_Ratio.png) Skylight Based on Ratio - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Skylight%20Based%20on%20Ratio.py)
 
 ![](../../images/components/Skylight_Based_on_Ratio.png)
 

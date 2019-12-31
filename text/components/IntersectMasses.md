@@ -1,4 +1,4 @@
-## ![](../../images/icons/IntersectMasses.png) IntersectMasses - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_IntersectMasses.py)
+## ![](../../images/icons/IntersectMasses.png) IntersectMasses - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_IntersectMasses.py)
 
 ![](../../images/components/IntersectMasses.png)
 
@@ -7,6 +7,8 @@ Use this component to take a list of closed breps (polysurfaces) that you intend
 #### Inputs
 * ##### bldgMassesBefore [Required]
 Script input bldgMassesBefore.
+* ##### runIt [Required]
+Script variable IntersectMass
 
 #### Outputs
 * ##### bldgMassesAfter

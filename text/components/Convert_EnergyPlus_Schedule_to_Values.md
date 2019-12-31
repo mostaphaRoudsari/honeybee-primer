@@ -1,4 +1,4 @@
-## ![](../../images/icons/Convert_EnergyPlus_Schedule_to_Values.png) Convert EnergyPlus Schedule to Values - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Convert%20EnergyPlus%20Schedule%20to%20Values.py)
+## ![](../../images/icons/Convert_EnergyPlus_Schedule_to_Values.png) Convert EnergyPlus Schedule to Values - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Convert%20EnergyPlus%20Schedule%20to%20Values.py)
 
 ![](../../images/components/Convert_EnergyPlus_Schedule_to_Values.png)
 

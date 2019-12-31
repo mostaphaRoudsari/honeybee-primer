@@ -1,4 +1,4 @@
-## ![](../../images/icons/Thermally_Bridged_EP_Construction.png) Thermally Bridged EP Construction - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Thermally%20Bridged%20EP%20Construction.py)
+## ![](../../images/icons/Thermally_Bridged_EP_Construction.png) Thermally Bridged EP Construction - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Thermally%20Bridged%20EP%20Construction.py)
 
 ![](../../images/components/Thermally_Bridged_EP_Construction.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Scale_Honeybee.png) Scale Honeybee - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Scale%20Honeybee.py)
+## ![](../../images/icons/Scale_Honeybee.png) Scale Honeybee - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Scale%20Honeybee.py)
 
 ![](../../images/components/Scale_Honeybee.png)
 

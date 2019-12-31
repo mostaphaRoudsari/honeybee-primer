@@ -1,4 +1,4 @@
-## ![](../../images/icons/Masses2Zones.png) Masses2Zones - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Masses2Zones.py)
+## ![](../../images/icons/Masses2Zones.png) Masses2Zones - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Masses2Zones.py)
 
 ![](../../images/components/Masses2Zones.png)
 

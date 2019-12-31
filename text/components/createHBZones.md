@@ -1,4 +1,4 @@
-## ![](../../images/icons/createHBZones.png) createHBZones - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_createHBZones.py)
+## ![](../../images/icons/createHBZones.png) createHBZones - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_createHBZones.py)
 
 ![](../../images/components/createHBZones.png)
 

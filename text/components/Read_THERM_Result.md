@@ -1,4 +1,4 @@
-## ![](../../images/icons/Read_THERM_Result.png) Read THERM Result - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Read%20THERM%20Result.py)
+## ![](../../images/icons/Read_THERM_Result.png) Read THERM Result - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Read%20THERM%20Result.py)
 
 ![](../../images/components/Read_THERM_Result.png)
 

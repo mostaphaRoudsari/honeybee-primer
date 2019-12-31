@@ -1,4 +1,4 @@
-## ![](../../images/icons/Get_Zone_EnergyPlus_Schedules.png) Get Zone EnergyPlus Schedules - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Get%20Zone%20EnergyPlus%20Schedules.py)
+## ![](../../images/icons/Get_Zone_EnergyPlus_Schedules.png) Get Zone EnergyPlus Schedules - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Get%20Zone%20EnergyPlus%20Schedules.py)
 
 ![](../../images/components/Get_Zone_EnergyPlus_Schedules.png)
 

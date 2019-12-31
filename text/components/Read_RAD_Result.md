@@ -1,4 +1,4 @@
-## ![](../../images/icons/Read_RAD_Result.png) Read RAD Result - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_Read%20RAD%20Result.py)
+## ![](../../images/icons/Read_RAD_Result.png) Read RAD Result - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_Read%20RAD%20Result.py)
 
 ![](../../images/components/Read_RAD_Result.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/ShadowPar.png) ShadowPar - [[source code]](https://github.com/mostaphaRoudsari/honeybee/tree/master/src/Honeybee_ShadowPar.py)
+## ![](../../images/icons/ShadowPar.png) ShadowPar - [[source code]](https://github.com/ladybug-tools/honeybee-legacy/tree/master/src/Honeybee_ShadowPar.py)
 
 ![](../../images/components/ShadowPar.png)
 
@@ -6,7 +6,7 @@ EnergyPlus Shadow Parameters -
 
 #### Inputs
 * ##### calculationMethod [Optional]
-An optional text string to set the means by which the shadow calculation is run.  Choose from the following two options: 1 - AverageOverDaysInFrequency - A shadow calculation that averages over multiple days (as opposed to running it for each timeStep).  This is the default setting. 2 - TimestepFrequency - A shadow calculation that computes the incoming solar energy at every single timestep of the simulation.  Note that this option is only needed for certain cases and can increase execution time significantly.
+An optional text string to set the means by which the shadow calculation is run.  Choose from the following two options: AverageOverDaysInFrequency - A shadow calculation that averages over multiple days (as opposed to running it for each timeStep).  This is the default setting. TimestepFrequency - A shadow calculation that computes the incoming solar energy at every single timestep of the simulation.  Note that this option is only needed for certain cases and can increase execution time significantly.
 * ##### frequency [Optional]
 An optional number that represents the frequency in days with which shadows are re-computed in the AverageOverDaysInFrequency calculation method.  The default is set to 30 days (meaning that the shadow calulation is performed every 30 days and this average over this period is used to represent all 30 days in the energy simulation).
 * ##### maximumFigure [Optional]
